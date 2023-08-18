@@ -1,0 +1,857 @@
+SNP	exposure	id.exposure	effect_allele.exposure	other_allele.exposure	eaf.exposure	beta.exposure	se.exposure	pval.exposure
+rs10048404	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.3694	-0.1096	0.0183	2.00E-09
+rs10054208	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.3617	0.1187	0.0185	1.49E-10
+rs10062049	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1359	0.2208	0.0255	4.50E-18
+rs10069690	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2581	0.1615	0.021	1.42E-14
+rs10087280	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.1683	-0.1381	0.0232	2.54E-09
+rs10164193	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.0777	0.2196	0.0327	1.87E-11
+rs10279432	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.6234	0.1178	0.018	5.73E-11
+rs1035673	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.6032	-0.1625	0.0176	3.00E-20
+rs1039897	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.6503	-0.1085	0.0183	3.26E-09
+rs1044608	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.0767	0.2018	0.0339	2.76E-09
+rs1044822	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1488	-0.1334	0.0243	4.14E-08
+rs10458662	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.1644	0.0233	0.0233	0.3181
+rs10490923	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.1257	0.1533	0.0262	5.02E-09
+rs10491713	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.1977	-0.1219	0.0217	2.05E-08
+rs1049212	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.5694	0.1788	0.0175	1.30E-24
+rs10493408	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.1331	0.1584	0.0255	5.09E-10
+rs10500932	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.0743	0.2784	0.0333	5.79E-17
+rs10520260	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.3196	-0.0848	0.019	7.74E-06
+rs10753933	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.553	-0.021	0.0174	0.2278
+rs10759697	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.4906	0.1308	0.0173	3.93E-14
+rs10776752	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.0805	0.4573	0.033	1.25E-43
+rs10804330	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.4329	-0.1331	0.0176	4.60E-14
+rs10804493	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.664	0.0872	0.0184	2.04E-06
+rs10821415	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.4227	0.0154	0.0177	0.3843
+rs10832586	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	A	0.2016	0.3083	0.0216	2.53E-46
+rs10838702	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.3875	0.2375	0.0178	1.27E-40
+rs10842383	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1495	-0.125	0.0242	2.47E-07
+rs10873612	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.5961	-0.1096	0.0179	9.51E-10
+rs10941043	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.2906	0.1269	0.019	2.52E-11
+rs10980408	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.0358	0.3745	0.0477	4.17E-15
+rs11021221	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	T	0.1668	-0.1877	0.0233	6.93E-16
+rs11070245	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.5321	0.1287	0.0174	1.57E-13
+rs11077961	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.3676	-0.1073	0.0186	8.55E-09
+rs11108209	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.0932	0.1901	0.03	2.40E-10
+rs11112548	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	A	0.0444	-0.2742	0.0443	5.80E-10
+rs11130602	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.4427	0.1467	0.0175	4.27E-17
+rs11141731	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.228	-0.1258	0.0207	1.31E-09
+rs1114347	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.4823	0.1792	0.0173	3.32E-25
+rs11145807	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.5942	-0.155	0.0184	4.10E-17
+rs11153590	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.3831	-0.1145	0.0178	1.12E-10
+rs11187838	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.4321	-0.2781	0.0174	2.55E-57
+rs11231693	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.0574	0.2223	0.0378	4.02E-09
+rs112393817	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.2174	-0.116	0.0211	3.80E-08
+rs11245631	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1955	-0.1474	0.0223	3.99E-11
+rs11252324	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.077	-0.2339	0.0328	1.03E-12
+rs11264280	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.324	-0.0763	0.0186	4.13E-05
+rs1133400	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.2148	0.1318	0.0215	8.30E-10
+rs114503346	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.0461	-0.2678	0.0426	3.10E-10
+rs114714860	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.1683	0.33	0.0236	1.42E-44
+rs115447786	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.0427	0.2904	0.0455	1.75E-10
+rs11556924	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.3827	-0.181	0.0181	1.83E-23
+rs11592107	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.3094	0.1203	0.0187	1.23E-10
+rs11598047	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.155	-0.0423	0.0241	0.0797407
+rs116063464	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.0601	0.2017	0.0369	4.68E-08
+rs11636952	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.6869	-0.3997	0.0189	5.21E-99
+rs11661473	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.2683	0.2007	0.0196	1.54E-24
+rs11664194	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	T	0.4603	-0.1078	0.0176	8.69E-10
+rs11665020	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.322	-0.1423	0.0187	2.78E-14
+rs11721984	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.4532	-0.1409	0.0177	1.89E-15
+rs11773845	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.5914	-0.0038	0.0176	0.8291
+rs11778153	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.3569	-0.1192	0.0182	5.84E-11
+rs1178979	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.1953	-0.1504	0.0221	9.96E-12
+rs11859505	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.5805	0.1037	0.0181	9.76E-09
+rs11923343	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.6396	0.1138	0.0181	3.10E-10
+rs11923667	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	T	0.4071	0.1175	0.0177	3.10E-11
+rs11945489	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2909	-0.1392	0.0192	3.99E-13
+rs11960210	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.3751	-0.2474	0.018	3.36E-43
+rs11961593	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.0685	-0.3158	0.0349	1.49E-19
+rs12088448	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	A	0.356	0.1544	0.0182	2.53E-17
+rs12149254	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.1697	-0.1324	0.0232	1.14E-08
+rs12152463	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.4251	0.1006	0.0174	8.01E-09
+rs1215469	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	A	0.7705	0.1383	0.0211	5.23E-11
+rs12258967	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.2958	-0.354	0.0193	3.27E-75
+rs12321	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.4333	-0.1492	0.0175	1.44E-17
+rs12337056	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1761	0.1364	0.0228	2.18E-09
+rs12426679	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.5107	0.0346	0.0175	0.0474002
+rs1243876	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.7012	-0.1063	0.019	2.14E-08
+rs12509595	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.2924	0.4972	0.0192	1.58E-148
+rs12515541	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.6072	0.1156	0.0177	6.23E-11
+rs12574332	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1227	0.2072	0.0266	6.14E-15
+rs12596630	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.0905	0.2606	0.0314	1.03E-16
+rs12609484	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.3163	-0.1398	0.0188	1.16E-13
+rs12627514	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.2897	0.2164	0.0196	1.99E-28
+rs1263671	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.1632	0.1394	0.0238	4.69E-09
+rs1265157	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.3521	-0.1444	0.0187	1.18E-14
+rs12656497	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.5968	0.3063	0.0176	1.47E-67
+rs1265842	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.5166	-0.1113	0.0174	1.70E-10
+rs12693302	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.6518	-0.2378	0.0181	2.15E-39
+rs12728150	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.081	0.2045	0.0318	1.28E-10
+rs1275985	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.6133	-0.2943	0.0177	2.77E-62
+rs12790943	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.4213	-0.1002	0.0175	1.14E-08
+rs12866098	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.3423	0.1033	0.0186	2.73E-08
+rs12906962	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.3233	0.2378	0.0188	8.73E-37
+rs12919839	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2841	-0.1098	0.0192	1.04E-08
+rs12978472	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.1247	-0.4779	0.0281	8.46E-65
+rs12990959	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.3125	0.1271	0.0187	1.11E-11
+rs13004222	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.051	-0.2944	0.0393	7.11E-14
+rs13124515	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.6869	0.1052	0.0187	1.98E-08
+rs13139571	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.2366	-0.2408	0.0203	2.29E-32
+rs13152154	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.7293	-0.1186	0.0195	1.23E-09
+rs13215166	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.4415	0.3094	0.0174	1.79E-70
+rs1322639	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.7766	-0.1584	0.0209	3.87E-14
+rs13237249	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.398	0.1366	0.0177	1.02E-14
+rs1327235	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.4714	0.3018	0.0173	4.76E-68
+rs1332812	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	T	0.6469	-0.1145	0.0181	2.71E-10
+rs13355146	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.3832	0.1224	0.0178	6.39E-12
+rs13358657	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.1332	0.224	0.0255	1.70E-18
+rs135023	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.5784	0.1036	0.0175	3.53E-09
+rs1373780	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.1845	0.1246	0.0224	2.58E-08
+rs138420351	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.016	0.5568	0.0854	7.11E-11
+rs1390754	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.3992	0.1258	0.0177	1.19E-12
+rs142449193	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.046	-0.2573	0.0426	1.51E-09
+rs1425486	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.3207	-0.1331	0.0187	1.11E-12
+rs1433121	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.6906	-0.1352	0.0188	6.91E-13
+rs1436138	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.3633	-0.1991	0.0182	7.33E-28
+rs1446468	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.546	0.253	0.0174	1.21E-47
+rs145422110	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.0162	0.5356	0.0745	6.41E-13
+rs1467049	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.1949	-0.1244	0.0219	1.35E-08
+rs147501096	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.072	-0.1955	0.0341	9.94E-09
+rs148401029	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.0352	-0.3122	0.0486	1.32E-10
+rs1502358	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.6813	-0.1127	0.0185	1.13E-09
+rs1527797	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.7395	-0.1409	0.0197	8.68E-13
+rs1528293	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	A	0.5079	-0.2764	0.0173	1.48E-57
+rs1534338	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.6029	-0.1144	0.0178	1.24E-10
+rs1582931	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.4748	0.2161	0.0175	4.51E-35
+rs1623474	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.33	0.2234	0.0184	6.24E-34
+rs1669907	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.6968	-0.1158	0.0191	1.36E-09
+rs16853198	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.0762	-0.3386	0.0327	4.44E-25
+rs1687295	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.7296	-0.2061	0.0194	2.99E-26
+rs16875357	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.2431	0.1205	0.0203	2.70E-09
+rs16896276	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	T	0.2625	-0.1309	0.0198	3.82E-11
+rs1693560	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.4603	-0.1525	0.0175	3.41E-18
+rs17171711	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1783	-0.0842	0.0226	0.000198999
+rs17321041	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.0633	0.2313	0.0363	1.78E-10
+rs17396055	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.3324	-0.115	0.0184	4.13E-10
+rs17432462	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.3766	0.1036	0.0179	7.31E-09
+rs17454517	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.5064	-0.1216	0.0174	2.65E-12
+rs17677603	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.3837	0.2	0.0178	3.90E-29
+rs17696749	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.5861	0.1255	0.0176	9.43E-13
+rs17832905	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.0717	0.1923	0.0346	2.80E-08
+rs1790123	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.8032	0.1991	0.0218	6.87E-20
+rs1799945	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.1497	0.3888	0.0244	3.88E-57
+rs1867624	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.6147	0.1412	0.0178	2.08E-15
+rs1871190	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.3344	0.1078	0.0186	6.63E-09
+rs1882961	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.3088	0.1272	0.0188	1.40E-11
+rs1889785	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.4551	0.1255	0.0174	5.61E-13
+rs1903752	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.5386	-0.0987	0.0178	3.20E-08
+rs1906615	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.201	0.0151	0.0217	0.4848
+rs1906672	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.2324	0.1402	0.0205	8.47E-12
+rs1984195	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.4883	0.1736	0.0173	1.43E-23
+rs2133386	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.4327	-0.1322	0.0176	5.21E-14
+rs2146315	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2318	-0.1197	0.0205	5.03E-09
+rs2160236	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.3792	-0.1421	0.0181	4.31E-15
+rs2169137	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.7287	0.1588	0.0194	3.17E-16
+rs2236295	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.3992	-0.207	0.0177	1.42E-31
+rs2239268	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.7005	0.1097	0.019	7.40E-09
+rs2239917	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.5748	-0.1731	0.0176	9.69E-23
+rs2271139	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.286	-0.1247	0.0192	8.23E-11
+rs2288327	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.1604	-0.0262	0.0235	0.2649
+rs2291516	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.1026	0.2422	0.0292	9.88E-17
+rs2307111	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.3966	0.1742	0.0178	1.62E-22
+rs234616	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.3112	-0.1152	0.0188	8.79E-10
+rs2359171	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	T	0.1704	-0.036	0.0232	0.1207
+rs2384061	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.4221	-0.1741	0.0175	2.25E-23
+rs2397060	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.1405	0.161	0.0251	1.46E-10
+rs2421200	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.4882	-0.1097	0.0173	2.59E-10
+rs2444769	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.7949	0.158	0.0219	4.85E-13
+rs2484294	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.7327	0.3165	0.0196	1.17E-58
+rs2487926	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.4295	-0.0972	0.0176	3.31E-08
+rs2493136	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.4075	0.2345	0.0176	1.92E-40
+rs2493296	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1419	0.2496	0.0254	7.45E-23
+rs2515424	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.4336	0.1278	0.0174	2.18E-13
+rs2540949	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	A	0.3779	-0.0527	0.0178	0.002979
+rs2548459	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.5195	0.132	0.0176	5.95E-14
+rs2569882	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.4342	-0.1199	0.0182	4.28E-11
+rs2589218	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.2698	0.1207	0.0196	6.90E-10
+rs2598	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.4674	-0.1387	0.0175	1.94E-15
+rs2627313	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.4457	0.151	0.0175	5.85E-18
+rs2643826	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.4508	0.1857	0.0175	2.83E-26
+rs2681485	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.5976	0.2945	0.0176	1.31E-62
+rs2738413	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.512	0.0113	0.0174	0.515
+rs2744133	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.2749	-0.1435	0.0193	1.17E-13
+rs2834618	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.1016	0.0073	0.0292	0.8019
+rs28377357	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.2938	-0.1243	0.019	6.03E-11
+rs2854746	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.3997	0.113	0.018	3.26E-10
+rs2860482	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	A	0.7076	-0.1128	0.0195	6.82E-09
+rs28631169	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1981	0.0652	0.0219	0.002922
+rs28661492	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2022	-0.1359	0.0222	9.56E-10
+rs28667801	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	A	0.407	0.1622	0.018	1.90E-19
+rs2906152	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.6304	-0.1873	0.0181	5.55E-25
+rs2921604	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.4633	0.096	0.0176	4.46E-08
+rs2925345	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.5324	-0.189	0.0174	1.60E-27
+rs2957468	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.6646	-0.1377	0.0185	8.43E-14
+rs3006583	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.1886	0.1303	0.0222	4.66E-09
+rs310597	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.3695	0.1152	0.0181	2.18E-10
+rs311564	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.3461	-0.133	0.0183	4.23E-13
+rs3117736	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2661	0.2374	0.0196	9.71E-34
+rs318712	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.0759	0.2389	0.0334	9.17E-13
+rs337705	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.391	0.019	0.0177	0.2826
+rs34130368	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.1172	-0.2027	0.0284	8.77E-13
+rs342977	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.7715	-0.1577	0.0205	1.67E-14
+rs34413141	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	T	0.1821	-0.1808	0.0227	1.49E-15
+rs34517439	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.1199	-0.2514	0.0279	2.02E-19
+rs34587839	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.1535	-0.1669	0.0244	8.22E-12
+rs34645159	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.5013	-0.133	0.0174	2.07E-14
+rs35091929	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.6032	-0.1828	0.0177	6.46E-25
+rs35213536	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.2467	0.2044	0.0205	2.54E-23
+rs35261542	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.2679	0.1196	0.0195	9.29E-10
+rs35413927	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.3049	0.1274	0.0189	1.77E-11
+rs35443	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.3858	-0.2661	0.0178	1.20E-50
+rs35506078	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.3366	0.1348	0.0183	1.54E-13
+rs36169093	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.5037	0.1231	0.0179	5.56E-12
+rs3735533	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.9258	0.487	0.0331	6.32E-49
+rs3743369	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.6278	0.104	0.0179	6.82E-09
+rs3761077	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.1106	0.1726	0.0283	1.04E-09
+rs3772219	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	A	0.3193	-0.1754	0.0185	2.94E-21
+rs3774702	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.1768	0.147	0.0228	1.18E-10
+rs3785837	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.7635	0.1453	0.0213	9.57E-12
+rs3798293	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.2165	0.1328	0.021	2.70E-10
+rs3802230	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.5446	-0.1605	0.0174	2.75E-20
+rs3802517	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	T	0.4615	0.1286	0.0173	9.29E-14
+rs3807101	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.123	-0.1743	0.0265	4.57E-11
+rs3861113	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.0825	0.2126	0.0322	3.95E-11
+rs3864004	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.4685	0.1004	0.0173	6.28E-09
+rs3916033	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.5565	-0.1233	0.0185	2.41E-11
+rs3918226	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.0813	0.6117	0.0329	5.31E-77
+rs3943093	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.3234	0.2477	0.0184	3.94E-41
+rs4074812	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.5535	-0.1336	0.0175	2.07E-14
+rs4077158	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.5286	0.1832	0.0173	3.09E-26
+rs4141663	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.4216	-0.1496	0.0175	1.41E-17
+rs4244200	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.2799	-0.1215	0.0193	3.23E-10
+rs4245930	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.6322	-0.1219	0.018	1.14E-11
+rs4284362	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.7181	-0.1586	0.0194	3.24E-16
+rs4295	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.6202	-0.1802	0.018	1.71E-23
+rs4306343	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	A	0.7212	0.317	0.0193	8.22E-61
+rs4362428	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.4087	-0.1127	0.0176	1.45E-10
+rs440454	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.684	0.2602	0.0192	7.52E-42
+rs4424827	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.5669	-0.0981	0.0175	2.11E-08
+rs4507125	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	A	0.2136	0.1244	0.0211	3.60E-09
+rs4507656	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.3066	0.1487	0.0199	8.69E-14
+rs4587869	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.2815	0.061	0.0203	0.00269401
+rs4615669	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.4403	0.114	0.0174	6.10E-11
+rs4642101	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.6462	-0.0787	0.0181	1.46E-05
+rs4645335	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.664	-0.1142	0.0185	7.04E-10
+rs4675682	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.4622	0.1409	0.0173	4.49E-16
+rs4704514	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2833	0.1087	0.0193	1.71E-08
+rs4739832	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	A	0.4167	-0.1323	0.0176	5.81E-14
+rs4743021	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.3147	0.108	0.0194	2.41E-08
+rs4756779	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.1758	0.1456	0.0227	1.48E-10
+rs4757877	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.7767	0.0357	0.0207	0.0845707
+rs4814837	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.3424	-0.1003	0.0184	4.62E-08
+rs4873492	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1725	0.1401	0.0231	1.28E-09
+rs488834	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.7641	-0.1931	0.0208	1.94E-20
+rs4891258	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.3174	0.1159	0.0187	5.72E-10
+rs4903064	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.2355	-0.1543	0.0206	7.84E-14
+rs4909314	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	T	0.3948	0.1339	0.0177	3.41E-14
+rs4926499	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.826	0.1694	0.0248	9.37E-12
+rs4926901	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.3548	0.0984	0.018	4.82E-08
+rs4926923	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.0883	-0.1918	0.0308	4.75E-10
+rs4930295	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.2216	-0.2418	0.0209	5.54E-31
+rs4932373	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	A	0.3257	0.3664	0.0189	7.71E-84
+rs4936099	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.5989	0.1745	0.0178	1.16E-22
+rs4946333	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.5007	0.1203	0.0173	3.30E-12
+rs4952668	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.6237	-0.192	0.018	1.13E-26
+rs4954192	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.3872	-0.1225	0.0179	8.15E-12
+rs504217	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.0736	0.2745	0.0335	2.51E-16
+rs504691	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.4002	-0.1177	0.0177	3.14E-11
+rs507666	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.1872	-0.2854	0.0223	2.27E-37
+rs544012	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.7339	-0.1143	0.0201	1.37E-08
+rs55684003	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.3041	-0.122	0.0189	1.01E-10
+rs55770741	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.5613	-0.1281	0.0175	2.20E-13
+rs55857306	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.1602	-0.5224	0.0235	5.05E-109
+rs55944332	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.2368	0.2365	0.0204	3.27E-31
+rs55993676	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.2916	-0.2097	0.0191	3.82E-28
+rs56201652	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.2739	0.0433	0.0194	0.02549
+rs56256111	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.1442	0.1926	0.0263	2.60E-13
+rs56326533	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.3896	0.0575	0.0176	0.00109199
+rs56809883	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.2595	0.1102	0.0199	3.03E-08
+rs57748895	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	A	0.0179	0.6627	0.0666	2.49E-23
+rs577676	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.4418	-0.0611	0.0174	0.000461201
+rs58693787	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.2458	-0.1584	0.0202	3.82E-15
+rs5992929	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2834	0.1684	0.0193	3.07E-18
+rs602521	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.2656	0.1351	0.0195	3.97E-12
+rs6026739	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	A	0.1226	0.5032	0.0266	1.49E-79
+rs6031431	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.4622	0.1153	0.0175	4.94E-11
+rs604723	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.7247	0.3848	0.0194	2.32E-87
+rs6058261	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.2736	-0.1201	0.0195	6.83E-10
+rs6062477	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.5756	0.1191	0.0177	1.81E-11
+rs6078393	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.4106	-0.1205	0.0176	7.66E-12
+rs6108168	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.2546	-0.1901	0.0199	1.10E-21
+rs61789369	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.0435	0.3039	0.0436	3.06E-12
+rs61909958	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.1881	-0.1275	0.0228	2.21E-08
+rs61912333	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.5037	-0.1191	0.0176	1.13E-11
+rs61917655	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1011	0.2246	0.0297	3.72E-14
+rs61948065	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	A	0.1212	0.1737	0.027	1.17E-10
+rs62030049	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.2404	-0.1336	0.0209	1.55E-10
+rs62155750	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.3074	0.2177	0.0196	8.27E-29
+rs62158170	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.2166	-0.1645	0.0211	6.63E-15
+rs62234672	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.1752	0.1248	0.0229	4.92E-08
+rs62301873	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.1061	0.1734	0.0284	1.06E-09
+rs62378003	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1141	-0.1714	0.028	8.90E-10
+rs62413546	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.0847	-0.1877	0.032	4.58E-09
+rs62434124	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.0711	-0.4853	0.0338	7.83E-47
+rs62503324	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2397	0.2033	0.0204	2.11E-23
+rs6271	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.0737	-0.4313	0.0352	1.72E-34
+rs636202	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.5185	-0.1023	0.0174	4.40E-09
+rs6464165	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.2809	0.217	0.0195	7.34E-29
+rs6487076	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.223	-0.174	0.0209	8.69E-17
+rs6546810	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.3525	0.12	0.0181	3.16E-11
+rs6556384	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.8105	-0.152	0.0221	5.91E-12
+rs6560886	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.8055	-0.0785	0.0234	0.000777106
+rs6580277	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.2382	-0.0214	0.0204	0.2949
+rs6580970	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2987	-0.1661	0.0191	4.03E-18
+rs6596717	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.6141	1.00E-04	0.0178	0.9952
+rs6602177	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.7073	-0.1203	0.0207	6.52E-09
+rs66682451	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.2747	-0.1348	0.0194	3.44E-12
+rs6686889	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2533	0.1918	0.0199	6.95E-22
+rs6689306	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.5739	-0.067	0.0177	0.000151799
+rs672272	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.6041	-0.1851	0.0178	2.77E-25
+rs6735275	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.2709	-0.1225	0.0194	2.62E-10
+rs6747542	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.458	0.0148	0.0174	0.3951
+rs6763931	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.4438	0.1383	0.0173	1.48E-15
+rs6777317	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.2899	0.1249	0.0195	1.51E-10
+rs6779368	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.3423	0.1791	0.0184	2.28E-22
+rs6795735	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.4109	-0.1438	0.0176	3.05E-16
+rs6800730	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.6702	0.2476	0.0185	8.00E-41
+rs68085857	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.234	0.191	0.0205	9.82E-21
+rs682681	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.6665	0.1454	0.0185	4.47E-15
+rs6838973	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.4364	-0.0013	0.0176	0.9419
+rs6875967	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.6479	-0.1344	0.0181	1.21E-13
+rs6905288	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.5681	0.1759	0.0179	7.79E-23
+rs6934891	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.4255	0.1275	0.0177	5.21E-13
+rs6961048	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.1038	0.2729	0.0286	1.28E-21
+rs6983239	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.2188	0.1159	0.0211	3.71E-08
+rs7012891	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.2367	0.1391	0.0205	1.20E-11
+rs710249	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.4264	0.1501	0.0174	6.43E-18
+rs7106104	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.281	0.1186	0.0193	7.72E-10
+rs7115331	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.2857	0.1266	0.0192	3.91E-11
+rs7137828	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.5183	-0.5027	0.0176	4.80E-180
+rs71454237	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.2085	0.0309	0.0218	0.1563
+rs7155504	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.0876	-0.2286	0.0317	5.16E-13
+rs7172038	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.1607	-0.0914	0.0237	0.000111599
+rs7192407	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.528	-0.1019	0.0174	4.53E-09
+rs7217916	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.6146	-0.1111	0.0179	5.63E-10
+rs722783	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.2216	-0.2093	0.0208	9.03E-24
+rs7235890	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.8956	-0.1692	0.0288	4.12E-09
+rs7257694	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.4003	0.1837	0.0178	6.28E-25
+rs7259285	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.4466	0.105	0.0176	2.65E-09
+rs72613227	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	A	0.1269	0.1884	0.0285	3.87E-11
+rs7265695	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.1965	-0.1967	0.0219	2.48E-19
+rs72683923	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.0212	-0.5325	0.0635	5.02E-17
+rs72700114	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.073	0.04	0.0343	0.2433
+rs72719149	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.3164	0.1279	0.0186	6.34E-12
+rs72831343	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.1419	-0.4936	0.0248	4.77E-88
+rs72842207	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2149	-0.2112	0.0211	1.10E-23
+rs72966339	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.356	0.0203	0.0181	0.263
+rs72976750	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.1396	0.1718	0.0251	7.37E-12
+rs73033340	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.0362	-0.5312	0.0525	5.06E-24
+rs73036520	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.2543	0.1557	0.0202	1.34E-14
+rs73046792	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.1592	-0.1518	0.0245	5.87E-10
+rs7321688	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.2325	0.1507	0.0205	1.99E-13
+rs7324697	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.325	0.1047	0.0185	1.59E-08
+rs73276406	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.1457	0.1564	0.0246	1.99E-10
+rs7427249	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.58	-0.1098	0.0176	4.34E-10
+rs74439044	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.0983	0.3496	0.0294	1.38E-32
+rs74500426	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.0804	0.0829	0.0324	0.01048
+rs74832855	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.036	0.0161	0.0469	0.7317
+rs751984	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.1174	-0.3937	0.0275	1.38E-46
+rs75507123	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.1274	-0.1434	0.0261	3.94E-08
+rs75511781	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.0425	0.3721	0.047	2.45E-15
+rs7572130	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.1042	0.1796	0.0287	4.12E-10
+rs7574892	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.4796	-0.0186	0.0173	0.2823
+rs7576060	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.35	-0.1017	0.0181	2.05E-08
+rs7611674	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	T	0.1962	-0.1576	0.0223	1.67E-12
+rs7623706	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.4349	-0.0975	0.0176	2.83E-08
+rs76326501	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	A	0.0911	-0.3618	0.0305	2.17E-32
+rs76452347	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2053	-0.2246	0.0229	9.37E-23
+rs7694000	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	A	0.4613	0.0965	0.0175	3.47E-08
+rs7788746	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.6691	-0.1644	0.0183	3.19E-19
+rs77924615	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.1982	-0.3163	0.0224	3.72E-45
+rs7800558	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.4219	-0.096	0.0175	4.46E-08
+rs7805035	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	T	0.4119	0.134	0.0176	2.40E-14
+rs78151625	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.1658	0.1869	0.0233	1.04E-15
+rs786921	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.5957	-0.1145	0.0176	8.63E-11
+rs78809139	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.1014	-0.2281	0.0288	2.58E-15
+rs78909293	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.0449	-0.321	0.0429	7.31E-14
+rs79044887	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.1476	-0.2427	0.0245	4.01E-23
+rs7915134	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1432	0.1706	0.0248	6.49E-12
+rs79187193	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.0518	-0.0809	0.0399	0.0426599
+rs7926335	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2699	0.1804	0.0195	2.05E-20
+rs79286081	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.1021	-0.1631	0.0299	4.83E-08
+rs7933758	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.3047	-0.1138	0.0191	2.58E-09
+rs7938342	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	T	0.5877	0.2672	0.0181	1.92E-49
+rs7959649	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.7576	-0.1166	0.0202	8.14E-09
+rs7967705	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.6196	-0.2694	0.0178	1.54E-51
+rs79724577	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	A	0.1832	-0.1362	0.023	3.47E-09
+rs79889784	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	G	0.0176	-0.3941	0.0717	3.86E-08
+rs7992292	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.824	0.1367	0.0231	3.19E-09
+rs80095680	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.2633	0.1566	0.0198	2.81E-15
+rs8014182	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1319	-0.1942	0.0257	3.94E-14
+rs8078510	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.2693	-0.1277	0.0197	9.84E-11
+rs824523	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.3344	0.1226	0.0183	2.26E-11
+rs881858	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.694	0.1553	0.0191	4.65E-16
+rs908951	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.437	-0.1983	0.0181	7.73E-28
+rs917522	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.885	0.1665	0.0273	1.04E-09
+rs9286351	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.4188	0.1412	0.0177	1.61E-15
+rs9289557	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.2604	-0.119	0.0207	8.68E-09
+rs9365555	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.3259	-0.1254	0.0187	1.96E-11
+rs9399137	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.2619	-0.1148	0.0197	5.83E-09
+rs9406076	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.3278	0.101	0.0185	4.65E-08
+rs9419374	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.646	-0.1164	0.0185	3.44E-10
+rs9467545	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	A	0.1572	0.2545	0.0237	7.39E-27
+rs9478282	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.1116	-0.1994	0.0279	8.70E-13
+rs9508495	diastolic blood pressure || id:ieu-b-39	ieu-b-39	T	C	0.7569	-0.1944	0.0204	1.34E-21
+rs951914	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	G	0.7126	0.1904	0.0193	5.06E-23
+rs9526707	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.3222	-0.1217	0.0186	6.59E-11
+rs962369	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.3013	-0.1684	0.0189	6.02E-19
+rs964941	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.5183	0.1726	0.0174	3.31E-23
+rs9791312	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	A	0.3452	0.1225	0.0184	2.89E-11
+rs9841978	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.3251	0.1766	0.0185	1.12E-21
+rs9889262	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	T	0.3666	0.2283	0.018	7.11E-37
+rs9893005	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.4647	0.1205	0.0176	7.90E-12
+rs9900637	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	C	0.4961	0.0992	0.0176	1.73E-08
+rs990619	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	C	0.5234	0.1592	0.0173	2.90E-20
+rs9918907	diastolic blood pressure || id:ieu-b-39	ieu-b-39	G	A	0.2162	0.1188	0.021	1.59E-08
+rs9932220	diastolic blood pressure || id:ieu-b-39	ieu-b-39	A	G	0.2177	-0.1591	0.021	3.76E-14
+rs9937801	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.4308	-0.1554	0.0174	4.81E-19
+rs9953366	diastolic blood pressure || id:ieu-b-39	ieu-b-39	C	T	0.6735	-0.0128	0.0191	0.5009
+rs10048404	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3744	-0.012	0.007	0.0878496
+rs10054208	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3641	0.0145	0.0071	0.0420097
+rs10062049	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1423	0.0032	0.0095	0.7365
+rs10069690	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2556	0.0115	0.008	0.1508
+rs10087280	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.1688	-0.0077	0.0087	0.3776
+rs10164193	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.0722	0.024	0.0128	0.0610801
+rs10279432	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.6017	0.0101	0.0069	0.1418
+rs1035673	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.5998	0.0061	0.0068	0.371
+rs1039897	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.6349	0.0144	0.007	0.0400203
+rs1044608	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.0721	-0.0132	0.013	0.3112
+rs1044822	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1535	-0.0313	0.0093	0.000797003
+rs10458662	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.1722	0.0544	0.0088	6.93E-10
+rs10490923	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1212	0.0126	0.0102	0.2168
+rs10491713	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.1963	-0.0162	0.0083	0.0519697
+rs1049212	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.5692	0.0023	0.0067	0.732399
+rs10493408	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.1299	0.0068	0.0097	0.4868
+rs10500932	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.0727	0.0015	0.0125	0.9045
+rs10520260	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.3214	-0.0457	0.0073	3.36E-10
+rs10753933	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.5518	-0.0609	0.0067	9.84E-20
+rs10759697	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4772	-0.0091	0.0066	0.171
+rs10776752	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.0805	0.0163	0.0122	0.1811
+rs10804330	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.4447	0.0078	0.0068	0.2518
+rs10804493	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.6505	0.0558	0.007	1.63E-15
+rs10821415	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.4132	0.0821	0.0067	2.92E-34
+rs10832586	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.2057	0.0259	0.0082	0.00160199
+rs10838702	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.3828	0.0059	0.0068	0.385
+rs10842383	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1478	-0.0988	0.0095	2.88E-25
+rs10873612	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.5931	-0.0217	0.0069	0.00166001
+rs10941043	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.2848	0.0048	0.0073	0.516
+rs10980408	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.0353	1.00E-04	0.0186	0.9964
+rs11021221	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.1643	-0.0044	0.0091	0.6255
+rs11070245	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.5212	-0.0107	0.0066	0.1068
+rs11077961	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.3737	0.0158	0.0071	0.0256898
+rs11108209	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.0874	0.0258	0.012	0.0320302
+rs11112548	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	A	0.0436	0.0192	0.0179	0.2828
+rs11130602	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4359	-0.0203	0.0067	0.00253898
+rs11141731	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2247	-0.0071	0.0081	0.3806
+rs1114347	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.5044	0.0124	0.0067	0.0619598
+rs11145807	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.5829	0.0031	0.007	0.655901
+rs11153590	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.3726	-0.0059	0.0069	0.3884
+rs11187838	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4398	0.0015	0.0067	0.822
+rs11231693	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.0538	-0.017	0.0145	0.2406
+rs112393817	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.2157	-0.0039	0.0081	0.627899
+rs11245631	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1992	0.0251	0.0084	0.00292099
+rs11252324	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.0773	-0.0188	0.0127	0.141
+rs11264280	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.333	0.1347	0.0071	3.07E-79
+rs1133400	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.2221	-0.0107	0.0082	0.1925
+rs114503346	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.0477	0.0059	0.0168	0.7258
+rs114714860	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.1602	-0.0035	0.009	0.7012
+rs115447786	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.0397	0.0686	0.0191	0.000330202
+rs11556924	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3748	-0.0105	0.007	0.1333
+rs11592107	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.3157	0.0053	0.0072	0.4613
+rs11598047	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.1621	0.1537	0.009	8.95E-66
+rs116063464	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.0676	0.0106	0.0138	0.4453
+rs11636952	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.6768	0.0048	0.0072	0.502599
+rs11661473	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.2729	0.0047	0.0075	0.5294
+rs11664194	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.4696	0.0165	0.0067	0.0136201
+rs11665020	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.3291	-0.0164	0.0072	0.0226798
+rs11721984	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.4505	-0.0098	0.0068	0.1468
+rs11773845	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.5856	0.1054	0.0067	2.39E-55
+rs11778153	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3764	-0.0014	0.007	0.8381
+rs1178979	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.193	0.0076	0.0085	0.3724
+rs11859505	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.5768	-0.004	0.0069	0.5574
+rs11923343	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.6218	-0.0106	0.0069	0.124
+rs11923667	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.4365	-0.0068	0.0067	0.3162
+rs11945489	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2816	0.0033	0.0074	0.653501
+rs11960210	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3696	-0.0185	0.0069	0.00705797
+rs11961593	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.0656	0.0067	0.0132	0.6128
+rs12088448	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.3531	0.0282	0.007	5.84E-05
+rs12149254	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1788	0.0079	0.0088	0.3705
+rs12152463	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.4362	-0.0081	0.0067	0.2282
+rs1215469	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.7624	0.0033	0.0082	0.687
+rs12258967	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.2838	-0.0305	0.0076	5.38E-05
+rs12321	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.4315	-0.0125	0.0068	0.0640796
+rs12337056	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.186	-0.0112	0.0087	0.1945
+rs12426679	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.5278	-0.0391	0.0067	4.95E-09
+rs1243876	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.695	-0.0042	0.0073	0.5653
+rs12509595	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3069	0.0416	0.0072	9.20E-09
+rs12515541	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.6055	0.0065	0.0068	0.3407
+rs12574332	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1235	0.0094	0.0101	0.3535
+rs12596630	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.0875	-0.0182	0.012	0.1289
+rs12609484	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.3053	-0.0226	0.0074	0.00210902
+rs12627514	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.2869	5.00E-04	0.0076	0.9421
+rs1263671	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.1638	-0.0079	0.0091	0.3854
+rs1265157	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.3312	-0.0091	0.0074	0.2174
+rs12656497	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.5985	0.0213	0.0067	0.001629
+rs1265842	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.5366	0.0157	0.0067	0.0195501
+rs12693302	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.6271	-0.0029	0.0069	0.673701
+rs12728150	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.0928	0.0087	0.0117	0.457
+rs1275985	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.603	0.0136	0.0068	0.0445995
+rs12790943	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.427	0.005	0.0068	0.463
+rs12866098	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.3474	0.0085	0.0072	0.2343
+rs12906962	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3161	0.007	0.0072	0.3299
+rs12919839	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2801	-0.0163	0.0074	0.0272502
+rs12978472	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.1348	-0.028	0.0108	0.00930894
+rs12990959	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3132	0.027	0.0071	0.0001426
+rs13004222	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.0511	-0.0273	0.0165	0.0990399
+rs13124515	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.6844	0.0127	0.0072	0.0788297
+rs13139571	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.2305	-0.0131	0.0078	0.0949205
+rs13152154	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.7225	-0.0315	0.0075	2.49E-05
+rs13215166	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.4336	0.0032	0.0067	0.6282
+rs1322639	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.7644	-0.0057	0.008	0.4777
+rs13237249	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.4036	-4.00E-04	0.0068	0.9491
+rs1327235	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.4699	0.0122	0.0067	0.0679908
+rs1332812	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.6334	-0.0056	0.0069	0.4185
+rs13355146	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3853	-0.0083	0.0068	0.2256
+rs13358657	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.1293	0.0066	0.01	0.509
+rs135023	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.5776	-0.0097	0.0068	0.1508
+rs1373780	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.1836	0.0109	0.0085	0.1976
+rs138420351	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.0128	0.0444	0.0349	0.2034
+rs1390754	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3969	0.0082	0.0068	0.2326
+rs142449193	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.04	-0.0274	0.0172	0.1114
+rs1425486	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3221	-0.0168	0.0071	0.0176799
+rs1433121	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.6661	-0.012	0.0072	0.0989601
+rs1436138	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.3667	-0.0102	0.0069	0.1409
+rs1446468	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.5581	-0.0011	0.0067	0.8687
+rs145422110	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.0148	0.031	0.0308	0.3129
+rs1467049	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.1911	0.0047	0.0085	0.579301
+rs147501096	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.0796	-0.0164	0.013	0.2078
+rs148401029	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.0326	-0.0389	0.0201	0.0527096
+rs1502358	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.6646	0.0128	0.0071	0.0706496
+rs1527797	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.7364	0.0124	0.0076	0.1038
+rs1528293	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	A	0.5054	5.00E-04	0.0066	0.9375
+rs1534338	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.5814	-0.0194	0.0068	0.00435803
+rs1582931	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.48	-0.0221	0.0067	0.000974294
+rs1623474	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3229	0.0147	0.0071	0.0376999
+rs1669907	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.6891	0.0106	0.0073	0.1504
+rs16853198	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.0831	-0.0207	0.0122	0.0903109
+rs1687295	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.7238	-0.0192	0.0075	0.0111401
+rs16875357	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.257	-0.0042	0.0076	0.579399
+rs16896276	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.2623	0.0076	0.0076	0.3147
+rs1693560	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.4539	0.0015	0.0067	0.82
+rs17171711	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1775	0.1086	0.0087	1.95E-35
+rs17321041	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.0723	0.0027	0.0136	0.8406
+rs17396055	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.3247	0.0025	0.0071	0.7247
+rs17432462	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3832	0.0055	0.0069	0.4256
+rs17454517	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.5129	-0.0179	0.0066	0.00716292
+rs17677603	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.387	0.0316	0.0069	4.28E-06
+rs17696749	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.5813	0.0155	0.0067	0.0215601
+rs17832905	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.0672	0.0208	0.0136	0.1267
+rs1790123	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.7781	-0.0037	0.0083	0.6549
+rs1799945	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.1465	8.00E-04	0.0105	0.9356
+rs1867624	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.6024	0.001	0.0068	0.8879
+rs1871190	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.3309	0.0085	0.0072	0.2349
+rs1882961	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3056	0.0112	0.0073	0.1249
+rs1889785	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4464	-0.0106	0.0066	0.1118
+rs1903752	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.5322	-0.0093	0.0069	0.1782
+rs1906615	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.1991	0.3658	0.0081	0
+rs1906672	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.242	0.0083	0.0078	0.2853
+rs1984195	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4732	0.0211	0.0066	0.001447
+rs2133386	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.4294	-1.00E-04	0.0067	0.9859
+rs2146315	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2283	-8.00E-04	0.0078	0.9194
+rs2160236	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.3941	-0.0086	0.0069	0.2117
+rs2169137	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.717	0.0328	0.0075	1.35E-05
+rs2236295	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.3992	0.0136	0.0068	0.0461201
+rs2239268	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.6884	0.0144	0.0072	0.0460596
+rs2239917	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.5811	-0.001	0.0067	0.8822
+rs2271139	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.3062	-4.00E-04	0.0072	0.958
+rs2288327	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.1564	0.0919	0.0089	7.26E-25
+rs2291516	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.0925	0.0152	0.0114	0.1826
+rs2307111	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3848	-0.0128	0.0068	0.0592298
+rs234616	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.3124	2.00E-04	0.0073	0.976
+rs2359171	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.176	0.1746	0.0086	4.65E-91
+rs2384061	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4165	-0.0082	0.0067	0.2209
+rs2397060	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.1411	0.0039	0.0093	0.6761
+rs2421200	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.4982	0.0169	0.0067	0.0112699
+rs2444769	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.782	-0.0145	0.0085	0.0888198
+rs2484294	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.7286	0.0106	0.0075	0.1601
+rs2487926	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.42	0.0151	0.0068	0.02552
+rs2493136	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.4099	0.0115	0.0067	0.0882206
+rs2493296	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1397	0.0161	0.0097	0.0979896
+rs2515424	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.4398	0.0029	0.0067	0.667599
+rs2540949	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	A	0.3847	-0.0659	0.0068	2.95E-22
+rs2548459	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.5334	0.0036	0.0069	0.6026
+rs2569882	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.4347	-0.0108	0.007	0.1209
+rs2589218	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.2581	-0.0073	0.0076	0.3342
+rs2598	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.4661	0.0021	0.0068	0.751201
+rs2627313	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.45	0.0388	0.0067	6.78E-09
+rs2643826	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.4513	0.0228	0.0068	0.000762395
+rs2681485	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.5827	0.0181	0.0067	0.00720195
+rs2738413	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.5049	-0.0778	0.0067	2.55E-31
+rs2744133	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.2802	-0.0137	0.0074	0.0650699
+rs2834618	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.1056	-0.0944	0.0112	3.41E-17
+rs28377357	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.2911	-0.0078	0.0073	0.2867
+rs2854746	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.3973	-0.0166	0.0075	0.0277901
+rs2860482	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.726	-0.054	0.0076	1.21E-12
+rs28631169	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1982	0.0522	0.0084	5.35E-10
+rs28661492	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2098	0.0086	0.0084	0.3024
+rs28667801	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	A	0.4112	0.0114	0.0069	0.0988804
+rs2906152	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.6261	-0.0027	0.007	0.704099
+rs2921604	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.4499	0.0068	0.0068	0.3137
+rs2925345	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.5312	0.0131	0.0067	0.0491802
+rs2957468	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.6574	-0.0015	0.0071	0.8313
+rs3006583	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.1884	-0.0029	0.0086	0.7395
+rs310597	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.3863	0.002	0.0069	0.7757
+rs311564	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.3469	0.0108	0.007	0.1238
+rs3117736	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2668	-0.0051	0.0075	0.4979
+rs318712	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.0765	0.0246	0.0126	0.0518096
+rs337705	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.3749	0.0564	0.0068	1.63E-16
+rs34130368	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.1142	-0.0242	0.0122	0.0466402
+rs342977	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.7641	0.0101	0.008	0.2084
+rs34413141	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.1864	-0.0128	0.0087	0.1379
+rs34517439	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.1222	0.0231	0.0108	0.0327703
+rs34587839	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1465	-0.0175	0.0097	0.07085
+rs34645159	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4944	-0.0089	0.0067	0.1852
+rs35091929	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.6094	0.001	0.0069	0.8801
+rs35213536	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.2502	-0.0079	0.0079	0.3143
+rs35261542	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.2574	0.0011	0.0075	0.8804
+rs35413927	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.3056	-0.0076	0.0073	0.2968
+rs35443	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.4009	-0.0157	0.0068	0.0208598
+rs35506078	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3242	-0.0178	0.0071	0.01228
+rs36169093	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.5067	0.017	0.0068	0.0125499
+rs3735533	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.8972	0.049	0.0123	6.97E-05
+rs3743369	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.6183	0.005	0.0069	0.4687
+rs3761077	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.1118	0.0073	0.0108	0.5034
+rs3772219	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.3191	-0.0132	0.0071	0.0643295
+rs3774702	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1711	-0.0102	0.0088	0.2439
+rs3785837	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.7522	0.0108	0.0081	0.1794
+rs3798293	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.2193	-0.0026	0.0081	0.7471
+rs3802230	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.5357	-0.0037	0.0067	0.579499
+rs3802517	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.4585	0.0144	0.0066	0.0305
+rs3807101	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1212	-0.0072	0.0102	0.4791
+rs3861113	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.0869	0.0063	0.0118	0.5936
+rs3864004	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4762	-0.0027	0.0067	0.6862
+rs3916033	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.5554	-0.0278	0.007	7.10E-05
+rs3918226	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.0863	0.0109	0.0125	0.3829
+rs3943093	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3222	-0.0037	0.0071	0.5993
+rs4074812	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.5455	-0.0366	0.0067	4.15E-08
+rs4077158	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.516	0.0063	0.0066	0.3453
+rs4141663	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.4264	-0.0156	0.0067	0.0205599
+rs4244200	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.2794	0.0046	0.0075	0.5364
+rs4245930	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.6211	-0.0212	0.0069	0.00200401
+rs4284362	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.704	-0.0138	0.0074	0.0614894
+rs4295	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.6025	0.0032	0.0069	0.6392
+rs4306343	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	A	0.7168	0.0061	0.0074	0.4109
+rs4362428	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.3977	-0.0101	0.0068	0.1383
+rs440454	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.6664	-0.0199	0.0077	0.00922104
+rs4424827	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.5771	0.0019	0.0068	0.7754
+rs4507125	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.213	-0.0076	0.0081	0.3527
+rs4507656	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.325	-0.004	0.0077	0.6046
+rs4587869	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.2849	0.0716	0.0077	1.19E-20
+rs4615669	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.4427	0.0071	0.0067	0.2903
+rs4642101	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.6397	0.0706	0.0069	2.95E-24
+rs4645335	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.643	0.0076	0.007	0.2825
+rs4675682	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.4548	-0.0098	0.0067	0.1445
+rs4704514	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2766	0.0058	0.0075	0.4355
+rs4739832	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.4249	0.0051	0.0067	0.4505
+rs4743021	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3053	0.006	0.0074	0.4156
+rs4756779	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.1763	0.0027	0.0088	0.7583
+rs4757877	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.7552	-0.0723	0.0078	2.93E-20
+rs4814837	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3249	-0.0065	0.0072	0.3673
+rs4873492	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1764	-0.0049	0.0087	0.5733
+rs488834	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.7477	-0.0151	0.0079	0.0577803
+rs4891258	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.3198	2.00E-04	0.0073	0.98
+rs4903064	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.2215	-0.0387	0.0081	1.62E-06
+rs4909314	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.3885	-0.0022	0.0068	0.747599
+rs4926499	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.8081	0.0072	0.0097	0.4607
+rs4926901	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.3616	-0.0012	0.0069	0.8584
+rs4926923	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.0863	0.0262	0.0119	0.0270203
+rs4930295	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.2267	0.0057	0.008	0.4747
+rs4932373	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.3279	0.0072	0.0073	0.319
+rs4936099	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.5847	0.0201	0.0069	0.00343803
+rs4946333	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.4897	0.0639	0.0066	5.47E-22
+rs4952668	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.6164	-0.0159	0.0069	0.0216601
+rs4954192	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.366	-0.0114	0.007	0.1023
+rs504217	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.0729	-0.0074	0.0124	0.5487
+rs504691	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.4023	-0.0071	0.0068	0.2947
+rs507666	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1241	0.0391	0.0254	0.123
+rs544012	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.7262	-0.0106	0.0076	0.166
+rs55684003	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.307	-0.0175	0.0073	0.0164301
+rs55770741	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.5494	-0.0143	0.0067	0.0327597
+rs55857306	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1582	0.0228	0.0091	0.0119201
+rs55944332	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.2382	-0.0198	0.0078	0.01163
+rs55993676	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.2926	-0.0453	0.0073	5.73E-10
+rs56201652	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.267	-0.0531	0.0075	1.74E-12
+rs56256111	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1455	-0.0412	0.0102	5.51E-05
+rs56326533	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3919	0.0685	0.0068	6.28E-24
+rs56809883	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.2714	-0.0061	0.0075	0.4149
+rs57748895	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	A	0.0169	0.0329	0.0268	0.2194
+rs577676	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.4383	-0.0923	0.0067	1.62E-43
+rs58693787	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.2513	-0.0032	0.0076	0.6703
+rs5992929	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2757	1.00E-04	0.0075	0.9876
+rs602521	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.267	0.0031	0.0074	0.673301
+rs6026739	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	A	0.1271	0.0173	0.0101	0.0861093
+rs6031431	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.464	0.0276	0.0068	4.86E-05
+rs604723	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.7106	0.0125	0.0074	0.0921892
+rs6058261	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.2727	-0.0047	0.0075	0.5306
+rs6062477	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.5644	0.0014	0.0068	0.8413
+rs6078393	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.4032	-0.0017	0.0068	0.8004
+rs6108168	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.2617	-0.0028	0.0076	0.714301
+rs61789369	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.0419	0.0194	0.0172	0.2584
+rs61909958	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.1788	-0.0088	0.0091	0.3336
+rs61912333	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.5017	-0.0146	0.0067	0.0303403
+rs61917655	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.0947	0.0165	0.0116	0.1541
+rs61948065	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.1289	0.0115	0.0101	0.2557
+rs62030049	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.2584	-0.0239	0.008	0.00274397
+rs62155750	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.3148	-0.0049	0.0075	0.513701
+rs62158170	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.2126	-0.0093	0.0082	0.2596
+rs62234672	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.1837	-0.0034	0.0086	0.6886
+rs62301873	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.1051	-0.002	0.0109	0.8567
+rs62378003	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1183	-0.0018	0.0108	0.8652
+rs62413546	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.0835	-0.0066	0.0125	0.5948
+rs62434124	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.0713	-0.0067	0.0127	0.599
+rs62503324	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2387	-0.0084	0.0078	0.2796
+rs6271	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.0669	0.006	0.0147	0.6838
+rs636202	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.5208	0.0012	0.0067	0.8569
+rs6464165	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.282	0.0054	0.0075	0.4702
+rs6487076	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.2293	0.0011	0.008	0.8898
+rs6546810	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3573	0.0105	0.0069	0.1285
+rs6556384	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.7972	-0.0212	0.0084	0.01148
+rs6560886	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.7884	0.051	0.009	1.49E-08
+rs6580277	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.2369	0.067	0.0079	1.64E-17
+rs6580970	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3076	-0.0125	0.0072	0.0841298
+rs6596717	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.6049	-0.0404	0.0068	3.00E-09
+rs6602177	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.7059	-5.00E-04	0.0078	0.9469
+rs66682451	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.2772	-0.0021	0.0074	0.7813
+rs6686889	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2534	0.0062	0.0083	0.4547
+rs6689306	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.5872	-0.046	0.0068	1.36E-11
+rs672272	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.5946	-0.0092	0.0068	0.1775
+rs6735275	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.2671	0.0081	0.0075	0.2793
+rs6747542	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.4642	-0.0554	0.0067	1.10E-16
+rs6763931	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4449	0.0345	0.0066	2.18E-07
+rs6777317	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.283	0.0094	0.0075	0.2085
+rs6779368	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.3391	-0.0041	0.0071	0.5648
+rs6795735	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.4036	-0.0114	0.0068	0.0903608
+rs6800730	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.6622	-0.0023	0.0071	0.7467
+rs68085857	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2426	-0.0029	0.0078	0.7093
+rs682681	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.6563	0.02	0.0072	0.00528397
+rs6838973	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.4406	-0.1514	0.0067	1.03E-111
+rs6875967	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.6398	-0.0173	0.007	0.01297
+rs6905288	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.5503	-0.0117	0.0063	0.0637206
+rs6934891	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4312	0.0079	0.0068	0.2449
+rs6961048	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.1026	0.0224	0.0108	0.0385301
+rs6983239	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.2153	-0.0094	0.0081	0.2437
+rs7012891	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.2344	-0.0078	0.0078	0.3168
+rs710249	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.4253	0.0053	0.0067	0.4254
+rs7106104	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.2826	-0.0131	0.0074	0.0776998
+rs7115331	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.2894	0.012	0.0074	0.1028
+rs7137828	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.5331	-0.0033	0.0068	0.6278
+rs71454237	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.209	-0.062	0.0084	1.78E-13
+rs7155504	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.084	-0.0285	0.0126	0.0237301
+rs7172038	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.1597	0.112	0.0089	4.78E-36
+rs7192407	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.5183	-0.0032	0.0067	0.6363
+rs7217916	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.6097	-0.03	0.0069	1.32E-05
+rs722783	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.2234	-0.0049	0.008	0.5412
+rs7235890	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.8741	-0.0025	0.0111	0.8183
+rs7257694	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.4057	-0.005	0.0069	0.4762
+rs7259285	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4412	-0.0045	0.0068	0.5098
+rs72613227	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	A	0.1297	-0.0038	0.011	0.728299
+rs7265695	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.1956	-0.0071	0.0083	0.3981
+rs72683923	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.0182	0.0257	0.0276	0.3517
+rs72700114	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.0756	0.2021	0.013	3.29E-54
+rs72719149	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3218	0.0111	0.0071	0.1172
+rs72831343	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.144	-0.0124	0.0095	0.192
+rs72842207	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2263	0.0097	0.008	0.2277
+rs72966339	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3679	-0.0616	0.0069	7.42E-19
+rs72976750	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.14	-0.002	0.0096	0.8309
+rs73033340	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.0409	-0.0065	0.0197	0.742899
+rs73036520	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.2497	0.0108	0.0079	0.1705
+rs73046792	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1686	-0.0012	0.0094	0.8954
+rs7321688	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.2296	-5.00E-04	0.0079	0.948
+rs7324697	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.3351	-0.0055	0.007	0.4353
+rs73276406	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.1485	0.0107	0.0092	0.2487
+rs7427249	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.5912	-0.0168	0.0068	0.0133601
+rs74439044	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.0944	0.0189	0.0114	0.0964606
+rs74500426	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.0764	-0.0921	0.0127	4.29E-13
+rs74832855	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.0369	0.1216	0.018	1.43E-11
+rs751984	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.1222	-0.0233	0.0102	0.0216302
+rs75507123	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.1251	-0.0027	0.0101	0.7867
+rs75511781	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.0459	0.0032	0.018	0.8583
+rs7572130	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.0955	0.0078	0.0111	0.4827
+rs7574892	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4847	0.0552	0.0067	1.98E-16
+rs7576060	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3556	-0.0014	0.0069	0.8413
+rs7611674	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.1902	0.0482	0.0085	1.30E-08
+rs7623706	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.4431	1.00E-04	0.0067	0.9832
+rs76326501	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.0904	-0.0194	0.0119	0.105
+rs76452347	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2028	-0.0107	0.0087	0.2171
+rs7694000	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	A	0.4665	-0.0103	0.0067	0.1218
+rs7788746	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.6568	0.0074	0.007	0.2899
+rs77924615	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1965	-0.0093	0.0087	0.2875
+rs7800558	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.4222	-0.0131	0.0068	0.0524095
+rs7805035	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.3945	8.00E-04	0.0068	0.9034
+rs78151625	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.1607	0.0031	0.009	0.733301
+rs786921	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.5968	-0.0134	0.0068	0.04701
+rs78809139	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1045	-0.0135	0.0111	0.2218
+rs78909293	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.0439	0.0117	0.0166	0.4805
+rs79044887	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.1474	-0.0027	0.0095	0.7739
+rs7915134	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1439	-0.1168	0.0095	1.42E-34
+rs79187193	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.0569	-0.1162	0.0153	3.15E-14
+rs7926335	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2623	0.0129	0.0075	0.0852393
+rs79286081	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.0969	-0.0097	0.0119	0.4133
+rs7933758	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3144	-0.0141	0.0073	0.0552803
+rs7938342	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.5812	0.0253	0.0076	0.000841105
+rs7959649	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.7437	9.00E-04	0.0078	0.9124
+rs7967705	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.6268	0.0077	0.0069	0.2676
+rs79724577	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.1745	0.0328	0.0091	0.000330803
+rs79889784	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.0154	-0.1022	0.032	0.001388
+rs7992292	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.8141	0.0093	0.009	0.3005
+rs80095680	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.2654	0.01	0.0076	0.19
+rs8014182	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1332	-0.0137	0.0098	0.1632
+rs8078510	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.2557	0.0015	0.0076	0.8463
+rs824523	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.3274	0.0046	0.0077	0.5486
+rs881858	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.6837	-0.0052	0.0073	0.4744
+rs908951	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.4585	-0.0159	0.0069	0.0215601
+rs917522	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.8605	0.0091	0.0103	0.3746
+rs9286351	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.4135	0.0199	0.0068	0.00334804
+rs9289557	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2774	2.00E-04	0.008	0.9826
+rs9365555	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.3287	-0.0031	0.0072	0.6708
+rs9399137	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.2663	-0.0059	0.0075	0.4304
+rs9406076	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.352	-0.0081	0.007	0.2478
+rs9419374	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.6413	-0.012	0.0072	0.0954399
+rs9467545	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	A	0.1596	0.0099	0.0091	0.2784
+rs9478282	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1241	0.0115	0.0102	0.2607
+rs9508495	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.7335	-0.0143	0.0076	0.0615404
+rs951914	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.6969	0.0115	0.0074	0.1182
+rs9526707	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.3253	-0.0121	0.0072	0.0912095
+rs962369	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3074	0.0058	0.0072	0.4259
+rs964941	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.511	0.0094	0.0066	0.1546
+rs9791312	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.3456	-0.0066	0.0071	0.3509
+rs9841978	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.3338	0.0168	0.0071	0.0170699
+rs9889262	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.362	0.0153	0.0069	0.0267301
+rs9893005	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.4804	-0.0176	0.0067	0.0088249
+rs9900637	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.4985	0.0127	0.0067	0.0595895
+rs990619	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.5009	0.0031	0.0066	0.6453
+rs9918907	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.226	0.0102	0.0079	0.2003
+rs9932220	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.2238	-0.0213	0.008	0.00767697
+rs9937801	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.4406	-0.011	0.0067	0.1
+rs9953366	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.6631	0.049	0.0073	1.82E-11

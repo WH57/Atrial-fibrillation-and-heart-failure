@@ -1,0 +1,268 @@
+library(readr)
+library(data.table)
+library(TwoSampleMR)
+library(MRPRESSO)
+
+#Code of the univariable MR analysis(Risk factors → Heart failure)
+dat<- read.delim("../univariableMR/WC_HF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/BMI_HF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/SBP_HF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/DBP_HF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/HbA_HF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/FG_HF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/FI_HF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/Smo_HF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/AD_HF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/PA_HF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/PM_HF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/CHD_HF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/MI_HF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+
+
+#Code of the univariable MR analysis(Risk factors → Atrial fibrillation)
+dat<- read.delim("../univariableMR/WC_AF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/BMI_AF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/SBP_AF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/DBP_AF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/HbA_AF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/FG_AF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/FI_AF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/Smo_AF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/AD_AF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/PA_AF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/PM_AF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/CHD_AF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso
+
+dat<- read.delim("../univariableMR/MI_AF.txt", quote="")
+res <- mr(dat)
+res
+heterogeneity<-mr_heterogeneity(dat)
+pleiotropy<-mr_pleiotropy_test(dat)
+presso<-mr_presso(BetaOutcome ="beta.outcome",BetaExposure = "beta.exposure", SdOutcome ="se.outcome", SdExposure = "se.exposure", OUTLIERtest = TRUE,DISTORTIONtest = TRUE, data = dat, NbDistribution = 1000, SignifThreshold = 0.05)
+heterogeneity
+pleiotropy
+presso

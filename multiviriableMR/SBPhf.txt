@@ -1,0 +1,877 @@
+SNP	exposure	id.exposure	effect_allele.exposure	other_allele.exposure	eaf.exposure	beta.exposure	se.exposure	pval.exposure
+rs1000423	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.7316	0.4138	0.0346	6.50E-33
+rs10028284	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	A	0.1816	-0.2937	0.0398	1.69E-13
+rs10045307	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.227	0.2024	0.0362	2.21E-08
+rs10048404	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.3701	-0.2607	0.0317	1.91E-16
+rs1006545	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.8872	0.6846	0.048	3.50E-46
+rs10069690	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.2582	0.3098	0.0369	4.47E-17
+rs1010064	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	A	0.1837	-0.3571	0.0387	3.02E-20
+rs1012089	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.5248	0.192	0.0302	1.95E-10
+rs10188003	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.393	0.1883	0.0307	8.80E-10
+rs10207726	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.296	-0.2142	0.033	8.06E-11
+rs10224210	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.2789	0.3831	0.034	1.60E-29
+rs10282122	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.6684	-0.302	0.0327	2.46E-20
+rs10420519	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.0347	-0.4921	0.0887	2.86E-08
+rs1044822	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1482	-0.248	0.0424	5.16E-09
+rs10460108	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.5199	-0.2141	0.0301	1.12E-12
+rs1049212	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.5693	0.299	0.0302	4.59E-23
+rs10501410	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.0692	0.4122	0.0607	1.10E-11
+rs1052501	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.8329	0.2262	0.0412	4.14E-08
+rs10749572	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.5444	-0.203	0.0302	1.88E-11
+rs10750441	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.6621	0.1754	0.0319	3.74E-08
+rs10776752	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.0809	0.8211	0.0576	4.61E-46
+rs10777213	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.5244	-0.1786	0.0299	2.45E-09
+rs10782230	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.4845	0.2106	0.0302	2.91E-12
+rs10804330	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.4332	-0.2351	0.0306	1.62E-14
+rs10914124	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.3833	-0.234	0.0312	6.32E-14
+rs10941043	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.2902	0.2585	0.0332	6.42E-15
+rs10980408	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.0359	0.7606	0.0827	3.83E-20
+rs11120093	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4082	-0.1792	0.0307	5.13E-09
+rs11145807	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.5943	-0.2135	0.0322	3.54E-11
+rs11159091	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.4615	0.1978	0.0303	6.79E-11
+rs111866816	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0709	0.3569	0.0597	2.29E-09
+rs11191580	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.0824	-1.0995	0.055	7.74E-89
+rs11210029	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.3678	0.203	0.0313	8.92E-11
+rs11222084	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	A	0.3621	0.3363	0.0316	1.80E-26
+rs11241313	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.3112	-0.2071	0.0326	2.23E-10
+rs112509803	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	G	0.1138	-0.2641	0.0477	3.18E-08
+rs11252324	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.0771	-0.4164	0.0573	3.61E-13
+rs112854918	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.0255	0.5577	0.1004	2.77E-08
+rs113086489	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.5525	0.3249	0.0307	3.80E-26
+rs1133400	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.214	0.2975	0.0376	2.53E-15
+rs115262049	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	A	0.0868	-0.5893	0.0552	1.29E-26
+rs1154214	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.6037	0.2031	0.0306	3.27E-11
+rs11585169	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	T	0.5773	0.1796	0.0308	5.34E-09
+rs11592107	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3096	0.3024	0.0326	1.55E-20
+rs11604357	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.1622	-0.277	0.0411	1.60E-11
+rs11636952	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.6859	-0.5313	0.0328	4.22E-59
+rs11641374	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.5995	-0.1943	0.0309	3.26E-10
+rs11655604	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.3579	-0.2033	0.0333	1.09E-09
+rs11672660	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1996	0.2212	0.0381	6.32E-09
+rs1169078	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.3121	0.1971	0.0327	1.68E-09
+rs11694601	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.4032	0.1909	0.0309	6.41E-10
+rs117206641	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1108	0.3154	0.0499	2.66E-10
+rs117464403	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.0183	0.864	0.1199	5.80E-13
+rs11874246	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.2963	0.2856	0.0328	3.22E-18
+rs11925504	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.5721	-0.2901	0.0305	1.78E-21
+rs11960210	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.3755	-0.4727	0.0313	1.25E-51
+rs11977526	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.4009	-0.3213	0.0312	6.62E-25
+rs1199330	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.1176	0.2654	0.047	1.65E-08
+rs12042924	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.4716	0.1807	0.0303	2.62E-09
+rs12063372	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3846	0.1989	0.0318	3.86E-10
+rs1209384	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.6122	-0.2558	0.0313	2.85E-16
+rs12136922	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.4949	0.2027	0.0304	2.69E-11
+rs12153395	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.1147	-0.3303	0.0486	1.07E-11
+rs12255372	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.2883	0.2358	0.0335	1.94E-12
+rs12258967	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.2953	-0.6327	0.0337	1.08E-78
+rs12264186	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1871	0.2135	0.0387	3.58E-08
+rs12321	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	G	0.4328	-0.2292	0.0303	3.81E-14
+rs12426261	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.6208	-0.3775	0.0309	2.31E-34
+rs12464602	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.6208	-0.2437	0.0315	1.02E-14
+rs12509595	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.2923	0.8367	0.0334	2.55E-138
+rs12511987	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.1774	0.2329	0.0399	5.39E-09
+rs12528975	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.0489	0.4751	0.0747	1.98E-10
+rs12596630	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0903	0.4278	0.0547	5.01E-15
+rs12610654	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.3436	-0.2315	0.032	4.41E-13
+rs12627651	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2872	0.3498	0.0341	1.02E-24
+rs12637573	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.5282	0.1731	0.0302	9.95E-09
+rs12643599	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.3605	-0.3134	0.0313	1.23E-23
+rs12656497	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.5966	0.6382	0.0307	7.14E-96
+rs12657950	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0744	0.455	0.059	1.27E-14
+rs12661036	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.225	0.2104	0.0374	1.82E-08
+rs12668436	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.2459	0.2151	0.035	7.88E-10
+rs12693982	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4024	0.2575	0.0309	7.49E-17
+rs12694277	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.7054	0.2018	0.0335	1.80E-09
+rs12731646	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.409	-0.189	0.0307	7.21E-10
+rs1275985	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.6133	-0.5411	0.0308	4.73E-69
+rs12883810	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1462	-0.2382	0.0428	2.70E-08
+rs12885878	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.7663	0.2291	0.0367	4.32E-10
+rs12906962	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.324	0.2653	0.0325	3.28E-16
+rs1290784	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4483	0.4124	0.0303	2.97E-42
+rs1290933	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.6919	-0.2847	0.0327	3.17E-18
+rs12926550	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3156	-0.2548	0.0324	3.43E-15
+rs1293969	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.2516	0.1988	0.0347	1.03E-08
+rs12978472	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.1241	-0.845	0.049	1.23E-66
+rs13016772	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.7651	0.2522	0.0355	1.23E-12
+rs13091418	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.3341	0.2234	0.0325	6.15E-12
+rs13107261	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3687	-0.1778	0.0314	1.57E-08
+rs13107325	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0739	-0.9086	0.0592	4.22E-53
+rs13204703	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.2489	-0.1967	0.035	1.94E-08
+rs13253358	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.2979	0.2127	0.033	1.13E-10
+rs1332813	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.6486	-0.2203	0.0314	2.32E-12
+rs13358657	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.1332	0.388	0.0445	2.95E-18
+rs13412750	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2708	-0.2889	0.0341	2.32E-17
+rs13420463	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.2266	-0.3143	0.036	2.72E-18
+rs1375564	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.6395	0.2579	0.0315	2.84E-16
+rs1382472	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.4041	-0.1917	0.0307	4.47E-10
+rs139354822	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.0296	-0.6115	0.0975	3.51E-10
+rs1408945	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.4243	-0.3196	0.0304	8.33E-26
+rs1410222	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.8166	0.2173	0.0388	2.17E-08
+rs141958336	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.043	0.7807	0.078	1.36E-23
+rs1422279	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.3864	0.331	0.0309	1.05E-26
+rs1433121	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.6906	-0.228	0.0326	2.66E-12
+rs1436138	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.3633	-0.3119	0.0315	4.73E-23
+rs1437649	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2345	-0.2189	0.0357	8.57E-10
+rs146550789	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.0417	0.4824	0.0778	5.64E-10
+rs148140538	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0808	-0.3252	0.0562	7.39E-09
+rs148401029	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.0352	-0.4623	0.0848	4.97E-08
+rs1493132	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.3397	0.1766	0.0318	2.73E-08
+rs1544861	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.6605	-0.1969	0.0318	5.66E-10
+rs1551355	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.2334	0.2098	0.0356	3.89E-09
+rs1556516	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	G	0.4988	0.1038	0.0299	0.000524795
+rs1565440	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3752	0.1746	0.0311	1.94E-08
+rs1575290	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4733	0.1973	0.0301	5.59E-11
+rs1623474	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.3303	0.3827	0.0321	7.66E-33
+rs1630736	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.465	-0.1706	0.0309	3.52E-08
+rs1664781	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.6925	0.2643	0.0326	5.69E-16
+rs17010957	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.1463	0.534	0.043	1.78E-35
+rs17035181	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.1448	-0.3074	0.0429	7.61E-13
+rs17042102	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.1099	-0.0881	0.0485	0.0695697
+rs17080102	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	G	0.0694	-0.8085	0.0594	3.52E-42
+rs17245822	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	A	0.3733	0.1899	0.0312	1.15E-09
+rs17249754	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.1683	-0.8446	0.0403	1.25E-97
+rs17257081	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.1935	-0.2274	0.0392	6.35E-09
+rs17562391	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4186	0.1967	0.0306	1.35E-10
+rs17608766	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.1445	0.6903	0.0433	2.48E-57
+rs177551	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.1344	0.373	0.0442	3.47E-17
+rs17760259	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.4276	0.2654	0.0304	2.25E-18
+rs17762	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.0777	0.4117	0.0571	5.60E-13
+rs17812022	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0958	-0.3613	0.0525	5.65E-12
+rs1786345	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	A	0.4338	-0.2073	0.0307	1.34E-11
+rs1814951	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.8785	-0.3231	0.0466	3.91E-12
+rs1821002	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.5892	-0.3794	0.0307	5.19E-35
+rs1848994	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2828	0.2012	0.0334	1.79E-09
+rs1870735	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.5469	-0.206	0.0311	3.60E-11
+rs1871190	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.3349	0.1954	0.0324	1.66E-09
+rs1882212	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.2207	-0.2753	0.0363	3.34E-14
+rs1882961	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.3087	0.2443	0.0326	6.69E-14
+rs1889785	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.4552	0.1782	0.0304	4.35E-09
+rs189267552	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	T	0.0132	-0.8664	0.139	4.55E-10
+rs1896326	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2291	-0.2797	0.0371	4.40E-14
+rs1906672	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2319	0.2966	0.0358	1.20E-16
+rs1957563	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.265	0.3629	0.0342	2.32E-26
+rs1984195	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.4887	0.2409	0.0303	1.77E-15
+rs1994158	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.1807	-0.2513	0.0391	1.23E-10
+rs2014408	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.2087	0.5169	0.0373	1.26E-43
+rs2024385	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	T	0.424	-0.2642	0.0306	5.88E-18
+rs2111557	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4675	0.1764	0.0302	5.22E-09
+rs2126474	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.4125	-0.2601	0.0306	1.87E-17
+rs2129869	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	A	0.2222	0.2643	0.0361	2.44E-13
+rs2161967	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.5721	-0.2836	0.0307	2.87E-20
+rs2177843	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1505	0.4394	0.0432	2.80E-24
+rs2236295	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.3978	-0.3028	0.0309	1.04E-22
+rs2238787	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.292	0.2552	0.0332	1.45E-14
+rs2249105	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.3679	-0.2927	0.0313	7.63E-21
+rs2276153	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.243	-0.3296	0.0351	6.56E-21
+rs2283500	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	A	0.1102	-0.3106	0.0481	1.08E-10
+rs2289124	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.1673	-0.308	0.0415	1.14E-13
+rs2291434	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.5335	-0.2622	0.0303	5.10E-18
+rs2291516	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.103	0.3708	0.0505	2.17E-13
+rs2353940	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.2493	0.2075	0.0358	6.85E-09
+rs2354862	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	A	0.3593	-0.2507	0.0317	2.42E-15
+rs2384063	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.7607	0.3266	0.0357	6.33E-20
+rs2392929	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.2027	0.7507	0.0379	1.96E-87
+rs2423514	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.4589	-0.3011	0.0302	1.77E-23
+rs246973	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.2882	0.2479	0.0335	1.45E-13
+rs2470004	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.8175	-0.3454	0.0392	1.28E-18
+rs2493134	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.4071	0.3736	0.0309	1.10E-33
+rs2493296	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1425	0.4183	0.0442	3.14E-21
+rs2498323	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.098	0.3171	0.0517	8.51E-10
+rs2580350	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.5609	0.1769	0.0307	8.39E-09
+rs2589218	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.2703	0.2258	0.0339	2.54E-11
+rs2598	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.467	-0.168	0.0303	2.87E-08
+rs2610990	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.7359	0.2903	0.0343	2.86E-17
+rs2627313	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4454	0.3208	0.0303	3.55E-26
+rs262986	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.4704	-0.2371	0.0305	7.67E-15
+rs263532	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.4245	-0.1798	0.0307	4.72E-09
+rs2643826	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4505	0.4473	0.0306	1.74E-48
+rs2652812	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.7544	-0.2516	0.0353	1.03E-12
+rs268263	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	T	0.7498	0.5938	0.0353	1.77E-63
+rs2689690	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.3678	-0.2702	0.0316	1.15E-17
+rs2724377	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.4697	-0.1938	0.0301	1.29E-10
+rs2745599	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.448	-0.2164	0.0317	8.96E-12
+rs2760748	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	T	0.0981	0.3626	0.0509	1.05E-12
+rs2776037	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.5849	0.1851	0.0309	2.15E-09
+rs2801008	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.3183	0.1876	0.0324	7.37E-09
+rs2815063	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.1315	0.2755	0.0458	1.76E-09
+rs2833834	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.2765	0.2177	0.0338	1.22E-10
+rs28429256	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3342	0.215	0.0325	3.89E-11
+rs28572357	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	A	0.3977	0.2733	0.0308	6.34E-19
+rs28578714	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.3938	-0.2066	0.0327	2.53E-10
+rs28650790	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1891	0.2287	0.0387	3.30E-09
+rs28688791	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.1982	0.3222	0.038	2.34E-17
+rs28866311	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.4737	0.2762	0.0302	5.45E-20
+rs2904315	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.6869	0.2081	0.0325	1.58E-10
+rs2913920	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.765	0.2418	0.0359	1.62E-11
+rs2957688	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.4707	0.3472	0.0304	2.74E-30
+rs3098186	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.5156	-0.2422	0.0303	1.41E-15
+rs3104552	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.4393	-0.2449	0.0303	6.31E-16
+rs34025993	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.586	-0.223	0.0308	4.71E-13
+rs34072724	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.4889	-0.2422	0.0303	1.37E-15
+rs34079867	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.266	0.1992	0.0354	1.78E-08
+rs34413141	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	T	0.1822	-0.3531	0.0393	2.47E-19
+rs34487963	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.0185	-0.8819	0.1244	1.35E-12
+rs34518929	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2623	-0.22	0.0345	1.79E-10
+rs34535756	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0394	0.478	0.0786	1.18E-09
+rs34727427	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.3168	0.2353	0.0324	4.02E-13
+rs34917849	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	G	0.1268	0.3124	0.0454	5.97E-12
+rs34941092	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.1498	-0.3225	0.0425	3.23E-14
+rs35098810	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	A	0.2317	-0.1967	0.0356	3.20E-08
+rs35413927	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.3054	0.3002	0.0328	5.25E-20
+rs35444	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.3862	-0.4368	0.031	3.47E-45
+rs35680304	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.5929	0.2694	0.031	3.76E-18
+rs35783704	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.1042	-0.4619	0.0507	8.81E-20
+rs365990	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.3658	-0.225	0.0312	5.95E-13
+rs3735533	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.9257	0.91	0.0577	5.29E-56
+rs3764400	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.1365	-0.3748	0.0445	3.69E-17
+rs3772219	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	A	0.3176	-0.2733	0.0324	3.10E-17
+rs3802517	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	T	0.4618	0.2527	0.0301	4.65E-17
+rs3807925	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.3504	0.1859	0.0319	5.39E-09
+rs3815460	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.1024	0.285	0.05	1.21E-08
+rs3819532	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.6087	0.1875	0.0306	9.44E-10
+rs3828282	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.5721	-0.1857	0.0318	5.29E-09
+rs3845811	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.4339	0.2942	0.0309	1.88E-21
+rs3860770	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2916	-0.2663	0.0333	1.20E-15
+rs3918226	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0811	0.664	0.0575	8.46E-31
+rs3950627	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.531	0.1851	0.0308	1.82E-09
+rs3980686	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.1075	-0.4998	0.0487	1.03E-24
+rs404100	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4513	0.1935	0.0303	1.68E-10
+rs4143175	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.7591	-0.2187	0.0352	5.10E-10
+rs42032	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2641	-0.3231	0.0345	7.39E-21
+rs4245599	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.5416	0.1794	0.0305	4.03E-09
+rs4260863	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.3837	-0.1911	0.0314	1.17E-09
+rs4284362	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.7181	-0.2256	0.0338	2.61E-11
+rs4408839	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.2567	0.2301	0.0345	2.42E-11
+rs4440615	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.6321	-0.2201	0.0312	1.87E-12
+rs4499560	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	A	0.6829	0.2199	0.0326	1.46E-11
+rs4511593	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.6528	-0.2881	0.0318	1.28E-19
+rs4553000	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.5141	-0.2035	0.03	1.09E-11
+rs4577304	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.4767	0.1767	0.0302	4.99E-09
+rs4606697	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.1041	-0.3196	0.0523	9.71E-10
+rs4651224	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4474	0.1986	0.0306	9.00E-11
+rs4734868	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.3303	0.1844	0.0321	9.22E-09
+rs4775769	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.9055	0.4162	0.0517	7.76E-16
+rs4784541	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.5252	0.2015	0.0307	4.93E-11
+rs483071	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.6248	0.2709	0.0313	5.09E-18
+rs4834792	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	T	0.4796	0.1973	0.0303	7.24E-11
+rs4873492	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1724	0.3431	0.0403	1.61E-17
+rs488834	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.7645	-0.3799	0.0365	2.35E-25
+rs4888408	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.5855	0.3653	0.0307	1.42E-32
+rs4925159	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.4246	0.2174	0.0305	9.66E-13
+rs4926499	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	G	0.8263	0.2965	0.0438	1.33E-11
+rs4932373	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	A	0.3258	0.635	0.0328	2.49E-83
+rs4952609	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.2561	-0.2124	0.0347	9.60E-10
+rs4955575	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	A	0.2539	-0.2158	0.0348	5.63E-10
+rs4957026	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.6601	-0.1982	0.0323	8.12E-10
+rs4961293	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4513	0.2268	0.0303	7.35E-14
+rs4980379	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.3719	0.5764	0.032	2.47E-72
+rs509833	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.8614	-0.329	0.044	7.08E-14
+rs55730499	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0753	0.0844	0.0604	0.162
+rs55732192	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.0947	-0.3358	0.0521	1.15E-10
+rs55924432	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.401	0.2651	0.0317	5.70E-17
+rs55944332	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.2368	0.2613	0.0355	1.79E-13
+rs56288724	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.4169	0.2178	0.031	2.01E-12
+rs56407827	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.2687	0.3603	0.034	2.78E-26
+rs571689	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.5196	0.228	0.0304	6.77E-14
+rs573455	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.539	-0.1994	0.0303	4.77E-11
+rs5742643	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.7513	0.2233	0.0349	1.53E-10
+rs57786342	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2059	0.2317	0.0374	5.63E-10
+rs57866767	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.4322	-0.4501	0.0304	1.14E-49
+rs57946343	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.1473	-0.716	0.0426	2.10E-63
+rs59980837	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.0178	1.0997	0.1163	3.32E-21
+rs60191654	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.1882	0.2382	0.0385	5.88E-10
+rs6026578	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.6269	0.185	0.0316	4.59E-09
+rs6026744	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	A	0.1229	0.7131	0.0461	7.00E-54
+rs6029756	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3225	-0.2712	0.033	1.88E-16
+rs6031431	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.4624	0.2617	0.0304	7.05E-18
+rs60444686	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.0406	0.5905	0.0782	4.42E-14
+rs604723	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.7244	0.655	0.0339	2.55E-83
+rs6054139	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.606	0.2094	0.0306	8.23E-12
+rs6058088	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.1561	-0.2832	0.0417	1.14E-11
+rs6062324	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2364	-0.3294	0.0363	1.18E-19
+rs6078093	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.428	-0.1849	0.0304	1.20E-09
+rs6090907	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.147	-0.3854	0.0425	1.29E-19
+rs60909079	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	G	0.2492	-0.2114	0.0351	1.73E-09
+rs60991988	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.1069	-0.3789	0.0498	2.82E-14
+rs6108787	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.4704	0.4274	0.03	5.38E-46
+rs61772592	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.1255	0.3181	0.0455	2.86E-12
+rs61917655	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1014	0.3427	0.0514	2.68E-11
+rs62047964	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0622	0.5115	0.0686	9.29E-14
+rs62076622	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.1987	-0.2363	0.0377	3.79E-10
+rs62082230	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	T	0.2773	-0.1884	0.0345	4.69E-08
+rs62170470	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.3983	-0.1972	0.0321	7.68E-10
+rs62309747	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.4734	-0.2244	0.0304	1.59E-13
+rs62512914	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.4152	-0.2066	0.0306	1.42E-11
+rs6271	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0735	-0.5547	0.0611	1.18E-19
+rs6438857	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.4226	-0.2736	0.0305	3.13E-19
+rs6445583	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.7465	0.2774	0.0349	1.90E-15
+rs6452769	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2053	-0.3143	0.0377	7.82E-17
+rs6490019	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.6204	0.2897	0.0309	6.61E-21
+rs6504213	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.5818	0.2982	0.0312	1.25E-21
+rs6540119	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	A	0.666	-0.2016	0.0322	3.93E-10
+rs6562778	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.5411	-0.178	0.0304	4.95E-09
+rs658780	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.2553	0.2028	0.0347	5.29E-09
+rs660240	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.7843	0.0225	0.0369	0.5416
+rs665445	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.2794	-0.1909	0.0334	1.15E-08
+rs66864335	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2211	-0.3963	0.0365	1.79E-27
+rs6699618	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.1599	-0.9115	0.041	1.68E-109
+rs6731373	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3492	0.1913	0.0326	4.18E-09
+rs6732123	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	G	0.4174	-0.1737	0.0307	1.52E-08
+rs6737318	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.2218	-0.2348	0.0364	1.13E-10
+rs67617547	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.3303	-0.1799	0.0322	2.39E-08
+rs6771917	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.7523	0.3793	0.0355	1.39E-26
+rs67885470	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.2094	-0.2087	0.038	4.12E-08
+rs6788907	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2682	0.221	0.0339	7.31E-11
+rs6788984	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.1437	-0.2999	0.0432	3.81E-12
+rs68085857	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.234	0.274	0.0357	1.68E-14
+rs68115553	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.0199	0.6445	0.1143	1.74E-08
+rs6870654	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.2546	-0.2136	0.0347	7.58E-10
+rs6892983	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.4022	0.3427	0.0307	7.11E-29
+rs6921291	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1907	0.3575	0.0385	1.58E-20
+rs6961048	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.104	0.5304	0.0497	1.43E-26
+rs7012866	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.5009	0.2325	0.0301	1.21E-14
+rs702395	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4369	0.2318	0.0305	3.24E-14
+rs7026176	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.5118	-0.1869	0.0299	4.01E-10
+rs7045409	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	T	0.3669	-0.1862	0.0313	2.55E-09
+rs7093894	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.1512	0.236	0.0427	3.16E-08
+rs7107356	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.5041	0.4598	0.0301	1.63E-52
+rs7134440	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0822	0.4788	0.0562	1.58E-17
+rs7134677	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.2978	-0.3851	0.0332	4.46E-31
+rs7154723	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.385	0.253	0.0309	2.72E-16
+rs7186298	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4295	-0.2315	0.0302	1.88E-14
+rs7211535	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.5236	0.1779	0.0304	4.61E-09
+rs7213273	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.655	-0.4	0.0315	6.24E-37
+rs7255933	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2574	0.2306	0.0345	2.44E-11
+rs72683923	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.0212	-0.9587	0.1101	3.08E-18
+rs72719160	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	A	0.3171	0.2243	0.0324	4.34E-12
+rs72742507	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.2999	-0.2053	0.0328	3.80E-10
+rs7278003	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.5622	0.1876	0.0304	6.63E-10
+rs72847885	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.337	-0.2413	0.0318	3.08E-14
+rs72931748	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.0985	-0.3967	0.0529	6.40E-14
+rs73046792	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.1588	-0.3554	0.0426	7.23E-17
+rs73049928	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.1939	0.2382	0.0392	1.20E-09
+rs7306710	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.519	0.2429	0.0303	1.02E-15
+rs73075659	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.3346	-0.3962	0.0321	5.52E-35
+rs73103937	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.268	-0.2051	0.0344	2.36E-09
+rs7310615	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.5184	-0.585	0.0306	1.32E-81
+rs7331680	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.1491	0.4101	0.0423	3.35E-22
+rs73727605	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.0663	0.3616	0.0623	6.60E-09
+rs73855810	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.1406	0.2732	0.0434	3.04E-10
+rs7395791	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.4419	-0.2162	0.0308	2.19E-12
+rs74048190	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.0478	0.4404	0.0757	6.07E-09
+rs740746	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.7318	0.4557	0.0342	1.42E-40
+rs743395	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.3834	0.2597	0.0317	2.55E-16
+rs7439567	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4106	0.2537	0.0309	2.31E-16
+rs74538877	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	G	0.0557	-0.3855	0.0707	4.97E-08
+rs7463212	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	T	0.5445	-0.2753	0.0305	1.81E-19
+rs7491248	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.2239	0.2163	0.0362	2.37E-09
+rs7493678	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	A	0.3486	0.189	0.0316	2.31E-09
+rs75016974	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1423	-0.2513	0.0439	1.05E-08
+rs7514579	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	A	0.2288	-0.2243	0.0361	5.45E-10
+rs75461554	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.2007	-0.3016	0.0377	1.18E-15
+rs7555285	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	G	0.8011	0.2294	0.0376	1.05E-09
+rs75672964	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0418	0.5885	0.0839	2.35E-12
+rs75961402	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.1534	0.2659	0.0418	1.95E-10
+rs7615099	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.3325	-0.1891	0.0321	3.90E-09
+rs7618284	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	G	0.3394	-0.1891	0.0331	1.10E-08
+rs76443575	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	G	0.0359	-0.5233	0.0816	1.40E-10
+rs76452347	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.205	-0.2974	0.0397	7.13E-14
+rs76719272	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1312	-0.2738	0.0461	2.97E-09
+rs7683728	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.5312	-0.3654	0.0304	2.43E-33
+rs7703560	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.2998	0.2246	0.0333	1.51E-11
+rs7722243	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.5043	-0.2048	0.0302	1.21E-11
+rs7725413	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.7699	-0.1985	0.0359	3.07E-08
+rs77375686	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.1117	0.3467	0.0485	8.38E-13
+rs7744902	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.0766	-0.4088	0.0593	5.64E-12
+rs7763558	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3241	0.3363	0.0321	1.17E-25
+rs7765526	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.5367	-0.201	0.0307	5.88E-11
+rs778124	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3736	0.2965	0.0311	1.45E-21
+rs77924615	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.1986	-0.4081	0.039	1.12E-25
+rs7796	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.4886	-0.3385	0.0314	5.00E-27
+rs7821832	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.2553	-0.4222	0.0348	6.67E-34
+rs78474310	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.0448	0.4699	0.0734	1.51E-10
+rs78648104	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.0925	0.4287	0.0541	2.36E-15
+rs786923	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.6239	-0.3082	0.031	2.82E-23
+rs78998485	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.2557	0.2449	0.0346	1.48E-12
+rs79069610	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.05	0.4005	0.0727	3.68E-08
+rs7912283	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.6468	-0.2144	0.0322	2.94E-11
+rs7926110	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	T	0.3267	-0.2603	0.0321	5.71E-16
+rs79384779	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1512	0.3179	0.0428	1.08E-13
+rs79539362	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.1008	-0.4003	0.0504	2.09E-15
+rs7963801	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.5779	0.2362	0.0311	2.87E-14
+rs79782817	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	G	0.1027	0.5324	0.0499	1.43E-26
+rs7980644	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.8334	-0.2641	0.0404	6.30E-11
+rs79930761	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0872	-0.4688	0.0559	4.90E-17
+rs8003103	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3447	-0.1755	0.0319	3.60E-08
+rs8030856	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.3953	0.1764	0.031	1.21E-08
+rs8044992	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.2877	-0.2138	0.0331	1.07E-10
+rs8079811	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.6521	0.2101	0.0325	1.03E-10
+rs8113613	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1813	-0.2334	0.0398	4.59E-09
+rs8125763	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.4717	0.1761	0.0301	4.84E-09
+rs8142376	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.491	0.1676	0.03	2.19E-08
+rs8180684	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.2896	0.2134	0.0335	1.80E-10
+rs848445	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.7149	0.2025	0.0339	2.28E-09
+rs869396	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.4659	-0.2115	0.0305	4.12E-12
+rs871004	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3481	0.2336	0.0317	1.65E-13
+rs8904	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3678	0.3061	0.0314	1.71E-22
+rs908951	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4378	-0.2261	0.0315	7.14E-13
+rs927315	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.4713	0.1689	0.0303	2.44E-08
+rs9285476	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.2929	-0.1844	0.0333	3.07E-08
+rs9302885	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.5548	-0.2242	0.0302	1.03E-13
+rs9327297	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.3324	-0.2747	0.0319	8.07E-18
+rs9349379	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	A	0.407	-0.2664	0.0312	1.31E-17
+rs9361836	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.3172	0.2196	0.0324	1.25E-11
+rs9368222	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.2688	0.2281	0.0339	1.84E-11
+rs9401913	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.4387	0.5202	0.0305	3.66E-65
+rs9486916	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.1979	0.2657	0.0385	5.42E-12
+rs9507885	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0953	-0.3208	0.0542	3.23E-09
+rs9508495	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.7565	-0.3557	0.0353	6.34E-24
+rs9526707	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3216	-0.2039	0.0323	2.77E-10
+rs9549627	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.1175	0.2846	0.05	1.25E-08
+rs961764	systolic blood pressure || id:ieu-b-38	ieu-b-38	G	C	0.5746	0.1909	0.0305	3.74E-10
+rs9848170	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	G	0.597	0.3231	0.0307	7.01E-26
+rs9869437	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.3523	-0.2001	0.0318	3.22E-10
+rs9876694	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	C	0.0584	0.4713	0.0651	4.64E-13
+rs9880098	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.3946	0.3081	0.0308	1.59E-23
+rs9886665	systolic blood pressure || id:ieu-b-38	ieu-b-38	C	T	0.7329	-0.2048	0.0343	2.47E-09
+rs9897429	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	G	0.52	0.2645	0.0319	1.19E-16
+rs9899540	systolic blood pressure || id:ieu-b-38	ieu-b-38	T	A	0.6001	-0.2011	0.0316	1.87E-10
+rs9918876	systolic blood pressure || id:ieu-b-38	ieu-b-38	A	C	0.1037	-0.2975	0.0498	2.28E-09
+rs1000423	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0089	0.0089	0.3161
+rs10028284	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	A	NA	-0.0173	0.0104	0.0963896
+rs10045307	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0154	0.0092	0.0954091
+rs10048404	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0105	0.0083	0.2064
+rs1006545	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	-0.0252	0.013	0.0524795
+rs10069690	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0216	0.0095	0.0231798
+rs1010064	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	A	NA	-0.0039	0.0103	0.7045
+rs1012089	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0207	0.0079	0.00836103
+rs10188003	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0032	0.008	0.6885
+rs10207726	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0159	0.0085	0.0610099
+rs10224210	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0018	0.0088	0.8331
+rs10282122	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.003	0.0086	0.7284
+rs10420519	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	-0.0228	0.024	0.3425
+rs1044822	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0073	0.011	0.5052
+rs10460108	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0087	0.0078	0.266
+rs1049212	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0083	0.0079	0.297
+rs10501410	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0187	0.0155	0.2295
+rs1052501	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0045	0.0107	0.6787
+rs10749572	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	-0.0116	0.0079	0.1439
+rs10750441	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.009	0.0083	0.2735
+rs10776752	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	0.0077	0.014	0.5819
+rs10777213	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.011	0.0078	0.1599
+rs10782230	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.005	0.0078	0.5182
+rs10804330	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-9.00E-04	0.008	0.9131
+rs10914124	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0044	0.0081	0.5824
+rs10941043	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	2.00E-04	0.0086	0.9828
+rs10980408	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0048	0.0217	0.8252
+rs11120093	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0049	0.0079	0.5339
+rs11145807	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0062	0.0082	0.452701
+rs11159091	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0066	0.0078	0.3996
+rs111866816	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0068	0.0161	0.6742
+rs11191580	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.031	0.0144	0.03125
+rs11210029	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0194	0.0081	0.0166399
+rs11222084	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	A	NA	-0.0114	0.0082	0.1623
+rs11241313	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0029	0.0085	0.7349
+rs112509803	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	G	NA	-0.0303	0.012	0.01137
+rs11252324	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	0.0041	0.0148	0.782
+rs112854918	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0181	0.0243	0.4561
+rs113086489	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	4.00E-04	0.008	0.9599
+rs1133400	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0055	0.0098	0.573499
+rs115262049	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	A	NA	-0.0243	0.0146	0.0971292
+rs1154214	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	-0.0018	0.008	0.8255
+rs11585169	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	T	NA	0.0035	0.0078	0.658901
+rs11592107	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.004	0.0084	0.634501
+rs11604357	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	-0.008	0.0109	0.4621
+rs11636952	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0063	0.0085	0.4581
+rs11641374	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	-0.0072	0.0081	0.374
+rs11655604	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0026	0.0087	0.7652
+rs11672660	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0264	0.0097	0.00679
+rs1169078	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.01	0.0084	0.2351
+rs11694601	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0072	0.008	0.3655
+rs117206641	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0257	0.0126	0.0404399
+rs117464403	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.057	0.0301	0.0584804
+rs11874246	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-1.00E-04	0.0085	0.9934
+rs11925504	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0181	0.0079	0.0221299
+rs11960210	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0186	0.0082	0.0229298
+rs11977526	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0208	0.0082	0.0112401
+rs1199330	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0139	0.0124	0.2607
+rs12042924	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.008	0.0079	0.308
+rs12063372	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0027	0.0082	0.7399
+rs1209384	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0131	0.0081	0.1025
+rs12136922	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.014	0.0079	0.0743892
+rs12153395	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0103	0.0125	0.4088
+rs12255372	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	-2.00E-04	0.0088	0.9791
+rs12258967	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0287	0.0089	0.00126
+rs12264186	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0199	0.0102	0.0500703
+rs12321	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	G	NA	6.00E-04	0.0079	0.9429
+rs12426261	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0166	0.0081	0.0398804
+rs12464602	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0109	0.0082	0.1869
+rs12509595	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0197	0.0085	0.02108
+rs12511987	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	0.006	0.0102	0.5586
+rs12528975	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0125	0.0192	0.5147
+rs12596630	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-4.00E-04	0.0146	0.9766
+rs12610654	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0059	0.0083	0.4793
+rs12627651	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0139	0.0088	0.1144
+rs12637573	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	6.00E-04	0.0078	0.943
+rs12643599	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	5.00E-04	0.008	0.9496
+rs12656497	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0098	0.008	0.2165
+rs12657950	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0079	0.0143	0.582801
+rs12661036	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0059	0.0098	0.5439
+rs12668436	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0015	0.0091	0.8668
+rs12693982	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0142	0.008	0.0751104
+rs12694277	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0079	0.0087	0.3593
+rs12731646	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0017	0.0081	0.8315
+rs1275985	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0146	0.008	0.0667498
+rs12883810	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0035	0.011	0.748201
+rs12885878	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0072	0.0094	0.445
+rs12906962	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.008	0.0084	0.3409
+rs1290784	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0051	0.0091	0.574
+rs1290933	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	-0.0038	0.0085	0.6552
+rs12926550	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0122	0.0086	0.1575
+rs1293969	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0017	0.009	0.8466
+rs12978472	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	0.0049	0.0132	0.7134
+rs13016772	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	4.00E-04	0.0093	0.9654
+rs13091418	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	0.0086	0.0084	0.3049
+rs13107261	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0046	0.0081	0.5729
+rs13107325	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0701	0.017	3.97E-05
+rs13204703	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-2.00E-04	0.0105	0.9851
+rs13253358	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0043	0.0085	0.6145
+rs1332813	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	3.00E-04	0.0082	0.9751
+rs13358657	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0133	0.0116	0.2509
+rs13412750	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.018	0.009	0.0452397
+rs13420463	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.011	0.0093	0.236
+rs1375564	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0239	0.0082	0.00344501
+rs1382472	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0085	0.008	0.2849
+rs139354822	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.03	0.0236	0.2043
+rs1408945	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	-0.0124	0.0091	0.1751
+rs1410222	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0065	0.0101	0.521
+rs141958336	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0439	0.0196	0.0254701
+rs1422279	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0113	0.0081	0.1594
+rs1433121	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0101	0.0084	0.2284
+rs1436138	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0119	0.0082	0.1437
+rs1437649	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0232	0.0094	0.01359
+rs146550789	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0327	0.019	0.0863396
+rs148140538	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0203	0.0145	0.1624
+rs148401029	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	-0.0438	0.0238	0.0661196
+rs1493132	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0014	0.0082	0.8613
+rs1544861	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0013	0.0082	0.8739
+rs1551355	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0098	0.0094	0.2956
+rs1556516	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	G	NA	0.0622	0.0078	1.57E-15
+rs1565440	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0169	0.0081	0.0364704
+rs1575290	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0025	0.0079	0.7533
+rs1623474	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0098	0.0084	0.2399
+rs1630736	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0088	0.0079	0.266
+rs1664781	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.016	0.0083	0.0544703
+rs17010957	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0017	0.0114	0.8848
+rs17035181	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	-0.008	0.011	0.4678
+rs17042102	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.1103	0.0121	5.71E-20
+rs17080102	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	G	NA	-0.0288	0.0155	0.0628304
+rs17245822	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	A	NA	0.0067	0.0081	0.4056
+rs17249754	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0058	0.0105	0.5785
+rs17257081	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0155	0.0105	0.1414
+rs17562391	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0192	0.008	0.01646
+rs17608766	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0419	0.0113	0.0002225
+rs177551	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	0.0141	0.0114	0.2173
+rs17760259	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0013	0.0079	0.8681
+rs17762	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.035	0.0143	0.01447
+rs17812022	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0085	0.0134	0.5242
+rs1786345	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	A	NA	-0.0091	0.008	0.2506
+rs1814951	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0321	0.0117	0.00593895
+rs1821002	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0189	0.0082	0.0215601
+rs1848994	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0023	0.0087	0.7895
+rs1870735	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0078	0.008	0.3297
+rs1871190	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	0.0107	0.0083	0.2015
+rs1882212	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0085	0.0097	0.3782
+rs1882961	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0195	0.0086	0.0229901
+rs1889785	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0199	0.0079	0.0122501
+rs189267552	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	T	NA	0.0084	0.0354	0.8128
+rs1896326	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0071	0.0097	0.4637
+rs1906672	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0012	0.0093	0.9
+rs1957563	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.01	0.0088	0.2584
+rs1984195	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0309	0.0079	9.37E-05
+rs1994158	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.004	0.01	0.6921
+rs2014408	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0092	0.0096	0.3413
+rs2024385	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	T	NA	-8.00E-04	0.0081	0.9258
+rs2111557	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-5.00E-04	0.0078	0.949
+rs2126474	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	-0.0155	0.0079	0.0499597
+rs2129869	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	A	NA	-0.0163	0.0094	0.0820994
+rs2161967	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	-0.0235	0.008	0.00316301
+rs2177843	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.062	0.0114	5.03E-08
+rs2236295	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	0.0065	0.008	0.418
+rs2238787	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0011	0.0085	0.8932
+rs2249105	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0039	0.0081	0.6306
+rs2276153	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	0.0061	0.0093	0.516
+rs2283500	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	A	NA	-0.0253	0.0125	0.0420804
+rs2289124	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0014	0.011	0.8977
+rs2291434	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	-0.0217	0.0078	0.00552904
+rs2291516	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0228	0.0141	0.1048
+rs2353940	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0031	0.0094	0.742
+rs2354862	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	A	NA	0.0225	0.0081	0.00554996
+rs2384063	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0148	0.0093	0.1144
+rs2392929	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	0.0161	0.0095	0.0911591
+rs2423514	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0108	0.0079	0.1725
+rs246973	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.013	0.0088	0.1386
+rs2470004	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0022	0.01	0.8278
+rs2493134	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0061	0.008	0.4429
+rs2493296	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0257	0.0117	0.0280201
+rs2498323	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0041	0.0137	0.7618
+rs2580350	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0081	0.0079	0.3078
+rs2589218	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0168	0.0089	0.0577803
+rs2598	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0031	0.0079	0.6979
+rs2610990	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0143	0.0089	0.1075
+rs2627313	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0249	0.0079	0.00158201
+rs262986	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0154	0.0079	0.0519099
+rs263532	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0091	0.0079	0.2538
+rs2643826	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.008	0.0079	0.3134
+rs2652812	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0058	0.009	0.5212
+rs268263	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	T	NA	0.0217	0.0094	0.0201502
+rs2689690	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	1.00E-04	0.0082	0.9937
+rs2724377	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0028	0.0078	0.720701
+rs2745599	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0071	0.0081	0.3807
+rs2760748	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	T	NA	0.0027	0.013	0.8332
+rs2776037	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0113	0.008	0.1557
+rs2801008	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	-0.0181	0.0085	0.0340698
+rs2815063	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	-0.004	0.0117	0.7345
+rs2833834	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	0.0189	0.0088	0.0314702
+rs28429256	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0036	0.0084	0.6669
+rs28572357	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	A	NA	-0.0073	0.008	0.3643
+rs28578714	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0092	0.0085	0.2782
+rs28650790	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0282	0.0103	0.00609804
+rs28688791	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0281	0.0097	0.00356
+rs28866311	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	0.0013	0.0079	0.8735
+rs2904315	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0041	0.0085	0.6284
+rs2913920	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0043	0.0093	0.6469
+rs2957688	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0033	0.0079	0.676
+rs3098186	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.006	0.0078	0.4403
+rs3104552	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0037	0.0079	0.6364
+rs34025993	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0063	0.0079	0.4303
+rs34072724	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0248	0.008	0.001923
+rs34079867	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0062	0.009	0.4907
+rs34413141	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	T	NA	-0.0261	0.0103	0.0114101
+rs34487963	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	-0.0499	0.0312	0.1101
+rs34518929	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0203	0.0091	0.0246598
+rs34535756	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0174	0.0211	0.408
+rs34727427	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0063	0.0101	0.5306
+rs34917849	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	G	NA	0.0084	0.0117	0.475501
+rs34941092	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0128	0.0111	0.2464
+rs35098810	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	A	NA	0.0058	0.0092	0.5257
+rs35413927	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0049	0.0085	0.5697
+rs35444	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0241	0.0081	0.00284001
+rs35680304	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0043	0.008	0.591701
+rs35783704	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0245	0.0125	0.0505603
+rs365990	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0056	0.0083	0.5022
+rs3735533	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.036	0.0147	0.0140799
+rs3764400	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0125	0.0116	0.2811
+rs3772219	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	A	NA	-0.0012	0.0085	0.8853
+rs3802517	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	T	NA	-0.0052	0.0078	0.5042
+rs3807925	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0023	0.0081	0.778001
+rs3815460	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	0.0204	0.0134	0.126
+rs3819532	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0021	0.008	0.794301
+rs3828282	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	0.0028	0.0083	0.7314
+rs3845811	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0015	0.008	0.8478
+rs3860770	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0298	0.0086	0.000517595
+rs3918226	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.058	0.0144	5.98E-05
+rs3950627	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	0.0125	0.008	0.1181
+rs3980686	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	-0.0301	0.0125	0.0155901
+rs404100	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0156	0.0079	0.0468004
+rs4143175	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0109	0.0092	0.2333
+rs42032	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0109	0.009	0.2265
+rs4245599	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0091	0.0079	0.2494
+rs4260863	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0145	0.0081	0.0743601
+rs4284362	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	0.0029	0.0087	0.7392
+rs4408839	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0204	0.0091	0.0247002
+rs4440615	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0053	0.0081	0.517101
+rs4499560	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	A	NA	-0.0046	0.0084	0.580899
+rs4511593	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0146	0.0082	0.0757199
+rs4553000	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0081	0.0078	0.2993
+rs4577304	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0085	0.0091	0.3495
+rs4606697	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0056	0.0135	0.6775
+rs4651224	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0014	0.0079	0.8564
+rs4734868	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0209	0.0084	0.0122301
+rs4775769	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	0.0091	0.0137	0.5064
+rs4784541	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0096	0.008	0.2308
+rs483071	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0088	0.0081	0.2798
+rs4834792	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	T	NA	0.0041	0.0078	0.6037
+rs4873492	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0132	0.0104	0.2053
+rs488834	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0108	0.0095	0.257
+rs4888408	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0306	0.008	0.000131801
+rs4925159	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0037	0.008	0.6443
+rs4926499	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	G	NA	0.0018	0.0111	0.8746
+rs4932373	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	A	NA	0.0142	0.0085	0.0946303
+rs4952609	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0094	0.0089	0.2942
+rs4955575	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	A	NA	0.0072	0.0091	0.4293
+rs4957026	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0168	0.0083	0.0428105
+rs4961293	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0115	0.0079	0.1454
+rs4980379	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0195	0.0082	0.01734
+rs509833	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0131	0.0115	0.2549
+rs55730499	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.1058	0.0157	1.83E-11
+rs55732192	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	-0.0421	0.0142	0.00297598
+rs55924432	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0216	0.0082	0.00824309
+rs55944332	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0132	0.0091	0.1492
+rs56288724	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0164	0.008	0.0399797
+rs56407827	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0115	0.0088	0.1894
+rs571689	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0099	0.0079	0.2099
+rs573455	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0159	0.0079	0.0432195
+rs5742643	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0136	0.0091	0.1343
+rs57786342	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0027	0.0097	0.7822
+rs57866767	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0176	0.0079	0.0253898
+rs57946343	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0029	0.0112	0.7964
+rs59980837	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	0.0165	0.0304	0.5886
+rs60191654	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0203	0.0099	0.0413599
+rs6026578	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0096	0.0082	0.2406
+rs6026744	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	A	NA	0.033	0.0116	0.00429101
+rs6029756	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0123	0.0085	0.1476
+rs6031431	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0112	0.0079	0.1564
+rs60444686	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0248	0.0208	0.2321
+rs604723	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0203	0.0088	0.02044
+rs6054139	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-2.00E-04	0.0081	0.9825
+rs6058088	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	-0.0266	0.0107	0.01268
+rs6062324	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0119	0.0095	0.2088
+rs6078093	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0072	0.0079	0.3642
+rs6090907	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0155	0.0112	0.1651
+rs60909079	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	G	NA	1.00E-04	0.0091	0.9904
+rs60991988	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	-0.0168	0.0129	0.1938
+rs6108787	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	0.0124	0.0079	0.1142
+rs61772592	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.034	0.0116	0.00350897
+rs61917655	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0202	0.0135	0.1347
+rs62047964	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0366	0.0164	0.0256803
+rs62076622	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.011	0.0097	0.2544
+rs62082230	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	T	NA	0.0117	0.009	0.1939
+rs62170470	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.016	0.0082	0.0504801
+rs62309747	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0114	0.008	0.1521
+rs62512914	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0069	0.0079	0.3821
+rs6271	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0038	0.0174	0.8281
+rs6438857	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0014	0.0091	0.8755
+rs6445583	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0171	0.0091	0.0596802
+rs6452769	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0031	0.01	0.753
+rs6490019	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-6.00E-04	0.0081	0.9422
+rs6504213	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0013	0.0096	0.8957
+rs6540119	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	A	NA	-0.0042	0.0084	0.6141
+rs6562778	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0045	0.0079	0.566301
+rs658780	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	0.0044	0.009	0.628801
+rs660240	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0611	0.0097	3.25E-10
+rs665445	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	0.0062	0.0086	0.4678
+rs66864335	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0069	0.0094	0.4622
+rs6699618	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	0.0167	0.0107	0.1182
+rs6731373	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0077	0.0085	0.3645
+rs6732123	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	G	NA	-0.0067	0.008	0.3978
+rs6737318	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0093	0.0094	0.3234
+rs67617547	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0037	0.0083	0.6579
+rs6771917	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0122	0.0092	0.1851
+rs67885470	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0027	0.0098	0.7801
+rs6788907	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0095	0.0088	0.2843
+rs6788984	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0013	0.0113	0.9089
+rs68085857	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0174	0.0092	0.0566304
+rs68115553	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0368	0.0276	0.1814
+rs6870654	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0039	0.0091	0.666099
+rs6892983	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	0.02	0.008	0.01238
+rs6921291	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0039	0.0101	0.6978
+rs6961048	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	0.0253	0.0126	0.04427
+rs7012866	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	0.0026	0.0078	0.7376
+rs702395	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0029	0.0079	0.708
+rs7026176	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	0.0086	0.0078	0.2687
+rs7045409	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	T	NA	0.0019	0.008	0.8141
+rs7093894	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	-0.0204	0.0115	0.0762307
+rs7107356	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0034	0.0079	0.6687
+rs7134440	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0269	0.0142	0.0580497
+rs7134677	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0134	0.0086	0.1176
+rs7154723	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.012	0.0081	0.1371
+rs7186298	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0114	0.0079	0.1474
+rs7211535	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0015	0.0079	0.8519
+rs7213273	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0252	0.0082	0.002065
+rs7255933	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0172	0.009	0.0541901
+rs72683923	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0561	0.0315	0.0747395
+rs72719160	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	A	NA	0.0306	0.0083	0.000244799
+rs72742507	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.006	0.0085	0.4781
+rs7278003	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0215	0.0079	0.00682103
+rs72847885	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0118	0.0083	0.1556
+rs72931748	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0104	0.0144	0.4713
+rs73046792	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0232	0.011	0.0339297
+rs73049928	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0078	0.01	0.4363
+rs7306710	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0084	0.0079	0.2869
+rs73075659	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0073	0.0084	0.3887
+rs73103937	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0022	0.0091	0.8105
+rs7310615	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0461	0.0092	5.45E-07
+rs7331680	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	0.0196	0.0109	0.07305
+rs73727605	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0027	0.0161	0.868
+rs73855810	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0244	0.0112	0.0298999
+rs7395791	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0055	0.008	0.4905
+rs74048190	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0155	0.0197	0.4317
+rs740746	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0021	0.0091	0.818
+rs743395	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0174	0.0082	0.0339102
+rs7439567	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.014	0.0079	0.0762009
+rs74538877	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	G	NA	-0.032	0.0179	0.0731307
+rs7463212	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	T	NA	-0.01	0.0079	0.2045
+rs7491248	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0247	0.0096	0.0100501
+rs7493678	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	A	NA	-0.0069	0.0082	0.4
+rs75016974	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0052	0.0119	0.6637
+rs7514579	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	A	NA	0.0045	0.0093	0.6297
+rs75461554	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0012	0.0097	0.905
+rs7555285	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	G	NA	0.0113	0.0097	0.2471
+rs75672964	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0361	0.0207	0.0805694
+rs75961402	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0144	0.0112	0.1989
+rs7615099	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0227	0.0084	0.00659402
+rs7618284	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	G	NA	-0.0022	0.0084	0.7925
+rs76443575	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	G	NA	-0.0124	0.022	0.573099
+rs76452347	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0069	0.0104	0.503499
+rs76719272	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0195	0.0118	0.0976
+rs7683728	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0086	0.0078	0.2691
+rs7703560	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0204	0.0088	0.0200198
+rs7722243	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0048	0.0078	0.5417
+rs7725413	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0059	0.0092	0.5215
+rs77375686	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0185	0.013	0.1528
+rs7744902	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.004	0.0153	0.7955
+rs7763558	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.019	0.0083	0.02256
+rs7765526	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0011	0.008	0.8866
+rs778124	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0251	0.0082	0.002168
+rs77924615	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0175	0.0101	0.0817109
+rs7796	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0106	0.0081	0.186
+rs7821832	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	-0.0172	0.009	0.0561397
+rs78474310	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0144	0.0188	0.4427
+rs78648104	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.016	0.0143	0.2641
+rs786923	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0164	0.0081	0.0430497
+rs78998485	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0028	0.009	0.7568
+rs79069610	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0325	0.0185	0.0786104
+rs7912283	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0162	0.0084	0.0538505
+rs7926110	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	T	NA	-0.0083	0.0097	0.3897
+rs79384779	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	4.00E-04	0.0109	0.9711
+rs79539362	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0157	0.013	0.225
+rs7963801	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0127	0.008	0.1145
+rs79782817	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	G	NA	0.0063	0.0133	0.638
+rs7980644	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0115	0.0108	0.2865
+rs79930761	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0158	0.0149	0.2879
+rs8003103	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0066	0.0082	0.4213
+rs8030856	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0085	0.008	0.2906
+rs8044992	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0223	0.0087	0.00986597
+rs8079811	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	0.0097	0.0084	0.2519
+rs8113613	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.019	0.0104	0.0678203
+rs8125763	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	0.0153	0.0078	0.0504998
+rs8142376	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.008	0.0078	0.3069
+rs8180684	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0028	0.0087	0.749601
+rs848445	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	0.0025	0.0087	0.774801
+rs869396	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	-0.0173	0.0079	0.0278901
+rs871004	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0272	0.0082	0.000959599
+rs8904	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.013	0.0082	0.1134
+rs908951	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0208	0.0081	0.0099291
+rs927315	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0018	0.0079	0.8241
+rs9285476	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.006	0.0086	0.4894
+rs9302885	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	-0.0318	0.0078	4.99E-05
+rs9327297	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0123	0.0083	0.1377
+rs9349379	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	A	NA	0.0255	0.0081	0.00169899
+rs9361836	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0112	0.0083	0.1749
+rs9368222	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	-9.00E-04	0.0089	0.9173
+rs9401913	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0168	0.0079	0.0334203
+rs9486916	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0056	0.0115	0.6276
+rs9507885	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0109	0.0138	0.4272
+rs9508495	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	-0.0253	0.0089	0.00463404
+rs9526707	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0185	0.0084	0.0270502
+rs9549627	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	-0.0059	0.0131	0.653
+rs961764	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	G	C	NA	-0.0014	0.008	0.86
+rs9848170	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	G	NA	0.0069	0.0079	0.3869
+rs9869437	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	-0.0013	0.0083	0.8739
+rs9876694	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	C	NA	0.0017	0.0164	0.9192
+rs9880098	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0107	0.008	0.1767
+rs9886665	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	C	T	NA	-0.0107	0.0088	0.2257
+rs9897429	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	G	NA	0.0179	0.0084	0.0327002
+rs9899540	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	T	A	NA	0.0095	0.0095	0.314
+rs9918876	Heart failure || id:ebi-a-GCST009541	ebi-a-GCST009541	A	C	NA	0.021	0.0126	0.0942497

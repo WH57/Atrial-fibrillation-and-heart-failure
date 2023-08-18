@@ -1,0 +1,259 @@
+SNP	exposure	id.exposure	effect_allele.exposure	other_allele.exposure	eaf.exposure	beta.exposure	se.exposure	pval.exposure
+rs10080815	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	T	0.027558	0.246627	0.0308579	1.33E-15
+rs10139550	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	C	0.423033	0.05538	0.0097569	1.38E-08
+rs10141892	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	T	0.583943	0.005267	0.009619	0.583992
+rs10213171	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	C	0.066078	0.002205	0.0191739	0.908445
+rs10458662	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	T	0.191606	0.010581	0.0116286	0.362869
+rs10520002	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.082973	0.015796	0.0169514	0.351418
+rs10520260	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.298668	0.003405	0.0105	0.74572
+rs10753933	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	T	0.537428	-0.012001	0.009292	0.196517
+rs10773657	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	C	0.821275	-0.02426	0.0125519	0.0532648
+rs10804493	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.621326	0.004434	0.0095571	0.642683
+rs10821415	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	C	0.398751	0.002621	0.0094615	0.781766
+rs10840293	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.549821	0.054714	0.009619	1.28E-08
+rs10842383	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.157961	0.003341	0.0124683	0.788731
+rs11191116	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.309202	0.003183	0.0104826	0.761397
+rs11264280	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.279373	-0.027828	0.0107292	0.00949555
+rs11556924	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.313325	-0.072569	0.0110605	5.34E-11
+rs11598047	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.173214	-0.031395	0.0120979	0.00945671
+rs11773845	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	C	0.581297	0.007616	0.0093116	0.41341
+rs117984853	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	G	0.078182	0.004067	0.0198919	0.837998
+rs11838776	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.263277	0.068566	0.0107552	1.83E-10
+rs1199338	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	A	0.161866	0.073596	0.0124987	3.90E-09
+rs12202017	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.300047	-0.066813	0.0099612	1.98E-11
+rs12245149	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	C	0.466279	-0.006178	0.0091769	0.500811
+rs12426679	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.471416	-0.004594	0.0093605	0.623577
+rs133885	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.469873	0.020954	0.0094854	0.0271688
+rs1412444	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.369131	0.066812	0.0096809	5.15E-12
+rs1458038	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.299531	0.046091	0.0102045	6.28E-06
+rs146518726	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.02488	0.014592	0.0336909	0.664932
+rs16986953	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.104706	0.08516	0.0150265	1.45E-08
+rs17087335	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	G	0.214637	0.060764	0.0111159	4.59E-08
+rs17171711	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.155143	0.032272	0.0135307	0.0170746
+rs17380837	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.3019	0.002778	0.0099959	0.781079
+rs17678683	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	T	0.087681	0.098786	0.0166548	3.00E-09
+rs1838747	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.492357	0.011836	0.0094734	0.211523
+rs1870634	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	T	0.637485	0.075878	0.0097113	5.55E-15
+rs1906615	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	G	0.251241	-0.001182	0.0106901	0.911957
+rs2031522	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.394392	-0.007065	0.009367	0.450701
+rs2107595	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.20047	0.073415	0.0112951	8.05E-11
+rs2128739	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	A	0.676464	-0.065565	0.0100568	7.05E-11
+rs2288327	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.202433	0.006684	0.0117503	0.569466
+rs2359171	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	T	0.188649	0.004957	0.0119273	0.677702
+rs2487928	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.418221	0.062633	0.0095049	4.41E-11
+rs2519093	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.190872	0.079704	0.0117524	1.19E-11
+rs2540949	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	A	0.388042	0.00361	0.009669	0.70888
+rs2681472	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.201306	0.074114	0.0113331	6.17E-11
+rs2738413	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.527487	-0.008449	0.0093398	0.365666
+rs2834618	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	T	0.103622	0.025132	0.0155327	0.105661
+rs28387148	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.088228	0.013162	0.0192543	0.494236
+rs284277	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	C	0.58056	-0.023378	0.0104728	0.0255982
+rs2860482	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	A	0.679759	0.00645	0.0108921	0.553735
+rs28631169	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.168463	-0.012899	0.0137023	0.346513
+rs2885697	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	G	0.674815	-0.01292	0.0100068	0.196661
+rs2891168	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.488668	0.193401	0.0091877	2.29E-98
+rs3176326	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.208545	-0.010911	0.0116101	0.34733
+rs337705	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	T	0.380943	-0.001758	0.0097689	0.857185
+rs34080181	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.360441	-3.40E-05	0.0097982	0.997231
+rs34936990	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.106431	-0.004617	0.0161725	0.775274
+rs34969716	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.292141	0.006642	0.0121348	0.584137
+rs35544454	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	A	0.180724	0.031143	0.0131418	0.0177992
+rs35569628	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	T	0.27719	0.003113	0.0104533	0.765854
+rs35963991	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	G	0.132972	0.004636	0.0152274	0.760785
+rs4073778	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	C	0.52932	-0.008277	0.0093224	0.374617
+rs4420638	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.166036	0.091906	0.0140977	7.07E-11
+rs4468572	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	T	0.585831	0.077234	0.0095277	4.44E-16
+rs4587869	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	G	0.274472	-0.005279	0.012427	0.670982
+rs4593108	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	C	0.204651	-0.07083	0.0115558	8.82E-10
+rs4642101	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	T	0.577701	-0.020264	0.0095799	0.0344073
+rs464901	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	T	0.344435	-0.001016	0.0099134	0.91837
+rs4757877	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.726675	0.004638	0.0104413	0.6569
+rs4935786	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	T	0.69611	0.00974	0.0114972	0.396903
+rs4946333	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.501104	-0.008272	0.0091606	0.366526
+rs4965430	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	C	0.576696	-0.004636	0.0094528	0.623824
+rs515135	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	T	0.791985	0.067499	0.0121924	3.09E-08
+rs55730499	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.056243	0.316641	0.0242403	5.39E-39
+rs55734480	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.261985	-0.000339	0.0108161	0.974997
+rs56201652	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.247355	-0.021191	0.0110105	0.0542775
+rs56289821	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.100378	-0.13361	0.0170415	4.44E-15
+rs56326533	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	T	0.404199	-0.004922	0.0097048	0.612035
+rs577676	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.493192	-0.018136	0.0094104	0.0539523
+rs60902112	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.260759	0.000961	0.0106988	0.928428
+rs62254082	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	T	0.379808	0.014573	0.0098134	0.137543
+rs62377206	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.05138	0.01634	0.0208707	0.433676
+rs62521286	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.058129	-0.036152	0.0213671	0.0906567
+rs6462079	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.763034	-0.009856	0.0113603	0.385622
+rs6546620	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	T	0.723916	0.002924	0.0112886	0.795618
+rs6560886	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	T	0.813598	6.00E-05	0.0148038	0.996766
+rs6580277	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.200949	-0.011086	0.0122228	0.364411
+rs6596717	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	C	0.61011	-0.003176	0.0096288	0.741517
+rs663129	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.256835	0.058163	0.0105173	3.20E-08
+rs6689306	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.552455	-0.056012	0.0094061	2.60E-09
+rs67180937	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	T	0.663052	0.078807	0.0110551	1.01E-12
+rs6747542	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	T	0.466543	0.021326	0.0095451	0.0254677
+rs6790396	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	C	0.59111	0.012694	0.0094539	0.17936
+rs6838973	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.455538	-0.003398	0.0094908	0.720321
+rs6882776	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.320533	-0.016972	0.0103511	0.101083
+rs6994744	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	A	0.516737	-0.004048	0.009292	0.663095
+rs71454237	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.225048	-0.003201	0.0114407	0.779638
+rs7172038	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	T	0.151299	0.000442	0.0133015	0.973492
+rs7212798	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	T	0.146516	0.079961	0.0142216	1.88E-08
+rs7224711	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.499824	-0.008693	0.0093626	0.35316
+rs7225165	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.10183	0.014068	0.0167352	0.400559
+rs72694603	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.286433	0.001371	0.0107227	0.89826
+rs72700114	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	G	0.066372	0.00062	0.0193195	0.974399
+rs72811294	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	G	0.117151	0.007498	0.0145822	0.607121
+rs72926475	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.119824	-0.034008	0.0154708	0.0279344
+rs72966339	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.361744	0.002688	0.0095223	0.777725
+rs73041705	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	T	0.297258	0.010942	0.0101958	0.283187
+rs73366713	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.128833	0.013804	0.0145203	0.341772
+rs74500426	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	G	0.086525	0.012633	0.0161421	0.433854
+rs74832855	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.03438	0.01152	0.0268191	0.667527
+rs74884082	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.247255	-0.025189	0.011017	0.0222326
+rs74910854	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.069813	-0.007579	0.0257144	0.768194
+rs7508	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.696451	0.008519	0.0103033	0.40834
+rs7528419	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.21418	-0.11453	0.011482	1.97E-23
+rs7529220	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	T	0.824455	-0.016979	0.0130125	0.191954
+rs7568458	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	T	0.448518	0.059618	0.0095093	3.62E-10
+rs7574892	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.452929	-0.035292	0.0097808	0.000308198
+rs76097649	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.074499	-0.022634	0.0202776	0.264332
+rs7612445	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	G	0.19694	0.014075	0.0115341	0.222353
+rs77316573	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.212897	0.003756	0.0142976	0.792781
+rs775498	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.27942	-0.013256	0.0103653	0.200937
+rs7789146	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.200192	-0.001677	0.012301	0.89156
+rs7915134	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.159413	-0.00078	0.0124672	0.950114
+rs79187193	Coronary heart disease || id:ieu-a-7	ieu-a-7	A	G	0.046456	-0.005362	0.0236581	0.820699
+rs8088085	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	A	0.419175	-0.011633	0.0094658	0.219092
+rs883079	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.665936	0.006717	0.0098069	0.493392
+rs9349379	Coronary heart disease || id:ieu-a-7	ieu-a-7	G	A	0.431606	0.131836	0.0096527	1.81E-42
+rs9506925	Coronary heart disease || id:ieu-a-7	ieu-a-7	T	C	0.237396	-0.031171	0.0117818	0.0081523
+rs9953366	Coronary heart disease || id:ieu-a-7	ieu-a-7	C	T	0.652075	0.025347	0.0106032	0.0168248
+rs10080815	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.0188	0.0759	0.0269	0.00481404
+rs10139550	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.43	0.0161	0.0068	0.0189701
+rs10141892	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.5833	-0.0452	0.0068	2.95E-11
+rs10213171	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.0609	0.091	0.0134	1.32E-11
+rs10458662	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.1722	0.0544	0.0088	6.93E-10
+rs10520002	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.0988	0.0626	0.0113	2.85E-08
+rs10520260	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.3214	-0.0457	0.0073	3.36E-10
+rs10753933	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.5518	-0.0609	0.0067	9.84E-20
+rs10773657	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.862	-0.0575	0.0103	2.54E-08
+rs10804493	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.6505	0.0558	0.007	1.63E-15
+rs10821415	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.4132	0.0821	0.0067	2.92E-34
+rs10840293	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.5616	0.0083	0.0068	0.2216
+rs10842383	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1478	-0.0988	0.0095	2.88E-25
+rs11191116	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.348	-0.041	0.007	4.42E-09
+rs11264280	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.333	0.1347	0.0071	3.07E-79
+rs11556924	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3748	-0.0105	0.007	0.1333
+rs11598047	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.1621	0.1537	0.009	8.95E-66
+rs11773845	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.5856	0.1054	0.0067	2.39E-55
+rs117984853	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.1013	0.1228	0.012	1.34E-24
+rs11838776	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.2817	-0.0091	0.0074	0.2207
+rs1199338	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.1596	-0.0128	0.009	0.1547
+rs12202017	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.2871	0.0223	0.0073	0.002172
+rs12245149	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.4739	-0.047	0.0067	1.66E-12
+rs12426679	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.5278	-0.0391	0.0067	4.95E-09
+rs133885	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4377	0.0405	0.0068	2.22E-09
+rs1412444	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3461	0.0082	0.007	0.2384
+rs1458038	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3087	0.0434	0.0072	1.74E-09
+rs146518726	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.0328	0.1605	0.0207	8.27E-15
+rs16986953	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.0677	0.0046	0.013	0.723099
+rs17087335	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.1926	0.0309	0.0083	0.0002044
+rs17171711	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1775	0.1086	0.0087	1.95E-35
+rs17380837	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.307	-0.0501	0.0072	4.80E-12
+rs17678683	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.1041	0.0054	0.0116	0.6425
+rs1838747	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.4954	0.0391	0.0067	4.13E-09
+rs1870634	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.6562	-0.0046	0.007	0.516
+rs1906615	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.1991	0.3658	0.0081	0
+rs2031522	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.3764	-0.0436	0.0068	1.47E-10
+rs2107595	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1607	-0.0039	0.009	0.6623
+rs2128739	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.7131	0.0012	0.0074	0.8724
+rs2288327	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.1564	0.0919	0.0089	7.26E-25
+rs2359171	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.176	0.1746	0.0086	4.65E-91
+rs2487928	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4425	0.0162	0.0067	0.0159801
+rs2519093	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1241	0.0391	0.0254	0.123
+rs2540949	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	A	0.3847	-0.0659	0.0068	2.95E-22
+rs2681472	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.1724	-0.0122	0.0088	0.1695
+rs2738413	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.5049	-0.0778	0.0067	2.55E-31
+rs2834618	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.1056	-0.0944	0.0112	3.41E-17
+rs28387148	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1051	0.0741	0.0113	6.25E-11
+rs284277	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.6174	-0.0422	0.0069	1.25E-09
+rs2860482	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.726	-0.054	0.0076	1.21E-12
+rs28631169	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1982	0.0522	0.0084	5.35E-10
+rs2885697	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.6482	-0.0439	0.007	2.88E-10
+rs2891168	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.4785	0.0246	0.0066	0.000208099
+rs3176326	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1982	-0.0626	0.0085	1.42E-13
+rs337705	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.3749	0.0564	0.0068	1.63E-16
+rs34080181	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.379	-0.0446	0.0069	1.28E-10
+rs34936990	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1207	0.1294	0.0101	2.95E-37
+rs34969716	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.3051	0.0702	0.0078	1.60E-19
+rs35544454	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	A	0.1918	-0.0589	0.0087	1.10E-11
+rs35569628	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.223	-0.0452	0.008	1.38E-08
+rs35963991	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.1494	0.0525	0.0095	2.80E-08
+rs4073778	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.5639	0.0486	0.0067	4.96E-13
+rs4420638	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.1914	0.0042	0.0088	0.6342
+rs4468572	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.5745	0.0105	0.0068	0.1233
+rs4587869	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.2849	0.0716	0.0077	1.19E-20
+rs4593108	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.1736	-0.0202	0.0088	0.0213599
+rs4642101	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.6397	0.0706	0.0069	2.95E-24
+rs464901	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3353	-0.0508	0.0072	1.53E-12
+rs4757877	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.7552	-0.0723	0.0078	2.93E-20
+rs4935786	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.7327	-0.0463	0.0079	4.85E-09
+rs4946333	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.4897	0.0639	0.0066	5.47E-22
+rs4965430	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.6136	-0.0441	0.0069	1.26E-10
+rs515135	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.8091	0.0018	0.0088	0.8333
+rs55730499	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.0727	0.0578	0.0139	3.45E-05
+rs55734480	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.2494	0.0548	0.0078	2.20E-12
+rs56201652	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.267	-0.0531	0.0075	1.74E-12
+rs56289821	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1116	0.0024	0.011	0.8241
+rs56326533	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3919	0.0685	0.0068	6.28E-24
+rs577676	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.4383	-0.0923	0.0067	1.62E-43
+rs60902112	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2262	0.0445	0.0079	1.72E-08
+rs62254082	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.3865	0.0404	0.007	6.34E-09
+rs62377206	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.0554	0.0846	0.0147	8.21E-09
+rs62521286	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.0663	0.1202	0.0135	4.50E-19
+rs6462079	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.7208	0.0466	0.0076	8.79E-10
+rs6546620	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.7999	0.0602	0.0086	3.19E-12
+rs6560886	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.7884	0.051	0.009	1.49E-08
+rs6580277	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.2369	0.067	0.0079	1.64E-17
+rs6596717	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	C	0.6049	-0.0404	0.0068	3.00E-09
+rs663129	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.2431	0.0173	0.0077	0.0244501
+rs6689306	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.5872	-0.046	0.0068	1.36E-11
+rs67180937	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.7113	0.0035	0.0078	0.6477
+rs6747542	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.4642	-0.0554	0.0067	1.10E-16
+rs6790396	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	C	0.5959	0.0627	0.0068	2.40E-20
+rs6838973	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.4406	-0.1514	0.0067	1.03E-111
+rs6882776	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.2835	-0.0711	0.0074	9.64E-22
+rs6994744	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.4954	0.0405	0.0066	1.09E-09
+rs71454237	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.209	-0.062	0.0084	1.78E-13
+rs7172038	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	T	0.1597	0.112	0.0089	4.78E-36
+rs7212798	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.165	0.0125	0.0139	0.3717
+rs7224711	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.5222	-0.0365	0.0066	3.72E-08
+rs7225165	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1133	-0.0655	0.0111	3.20E-09
+rs72694603	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3147	-0.0553	0.0072	2.26E-14
+rs72700114	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.0756	0.2021	0.013	3.29E-54
+rs72811294	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	G	0.1131	-0.072	0.0106	9.67E-12
+rs72926475	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1228	-0.0683	0.0102	2.37E-11
+rs72966339	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.3679	-0.0616	0.0069	7.42E-19
+rs73041705	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.2985	-0.0443	0.0073	1.55E-09
+rs73366713	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1396	-0.1035	0.0099	1.53E-25
+rs74500426	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.0764	-0.0921	0.0127	4.29E-13
+rs74832855	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.0369	0.1216	0.018	1.43E-11
+rs74884082	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2495	-0.0493	0.0078	3.48E-10
+rs74910854	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.0693	0.09	0.0164	4.31E-08
+rs7508	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.7109	0.0711	0.0075	1.69E-21
+rs7528419	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.22	-0.0147	0.008	0.06528
+rs7529220	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.8469	0.0621	0.0098	1.98E-10
+rs7568458	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	T	0.4508	0.0054	0.0067	0.4147
+rs7574892	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.4847	0.0552	0.0067	1.98E-16
+rs76097649	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.0933	0.1151	0.0124	1.26E-20
+rs7612445	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	G	0.1879	0.0493	0.0084	4.81E-09
+rs77316573	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1991	0.0529	0.0089	3.26E-09
+rs775498	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.2798	0.0423	0.0074	1.05E-08
+rs7789146	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.1787	-0.0584	0.0087	2.12E-11
+rs7915134	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.1439	-0.1168	0.0095	1.42E-34
+rs79187193	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	A	G	0.0569	-0.1162	0.0153	3.15E-14
+rs8088085	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	A	0.4646	-0.0365	0.0067	4.79E-08
+rs883079	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.7074	0.0981	0.0074	2.84E-40
+rs9349379	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	G	A	0.4074	0.0135	0.0069	0.0482903
+rs9506925	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	T	C	0.2669	0.0449	0.0075	2.72E-09
+rs9953366	Atrial fibrillation || id:ebi-a-GCST006414	ebi-a-GCST006414	C	T	0.6631	0.049	0.0073	1.82E-11

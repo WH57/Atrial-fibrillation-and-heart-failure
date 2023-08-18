@@ -1,0 +1,78 @@
+library(readr)
+library(data.table)
+library(TwoSampleMR)
+
+#Code of the multivariable MR analysis(shared risk factors → Heart failure)
+dat1<- read.table("../multiviriableMR/SBPaf.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+dat2<- read.table("../multiviriableMR/SBPaf_HF.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+mvdat<- mv_harmonise_data(dat1,dat2)
+resMV<- mv_multiple(mvdat)
+resMV
+
+dat1<- read.table("../multiviriableMR/DBPaf.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+dat2<- read.table("../multiviriableMR/DBPaf_HF.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+mvdat<- mv_harmonise_data(dat1,dat2)
+resMV<- mv_multiple(mvdat)
+resMV
+
+dat1<- read.table("../multiviriableMR/MIaf.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+dat2<- read.table("../multiviriableMR/MIaf_HF.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+mvdat<- mv_harmonise_data(dat1,dat2)
+resMV<- mv_multiple(mvdat)
+resMV
+
+dat1<- read.table("../multiviriableMR/BMIaf.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+dat2<- read.table("../multiviriableMR/BMIaf_HF.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+mvdat<- mv_harmonise_data(dat1,dat2)
+resMV<- mv_multiple(mvdat)
+resMV
+
+dat1<- read.table("../multiviriableMR/CHDaf.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+dat2<- read.table("../multiviriableMR/CHDaf_HF.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+mvdat<- mv_harmonise_data(dat1,dat2)
+resMV<- mv_multiple(mvdat)
+resMV
+
+dat1<- read.table("../multiviriableMR/Smoaf.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+dat2<- read.table("../multiviriableMR/Smoaf_HF.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+mvdat<- mv_harmonise_data(dat1,dat2)
+resMV<- mv_multiple(mvdat)
+resMV
+
+
+#Code of the multivariable MR analysis(shared risk factors → Atrial fibrillation)
+dat1<- read.table("../multiviriableMR/SBPhf.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+dat2<- read.table("../multiviriableMR/SBPhf_AF.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+mvdat<- mv_harmonise_data(dat1,dat2)
+resMV<- mv_multiple(mvdat)
+resMV
+
+dat1<- read.table("../multiviriableMR/DBPhf.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+dat2<- read.table("../multiviriableMR/DBPhf_AF.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+mvdat<- mv_harmonise_data(dat1,dat2)
+resMV<- mv_multiple(mvdat)
+resMV
+
+dat1<- read.table("../multiviriableMR/MIhf.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+dat2<- read.table("../multiviriableMR/MIhf_AF.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+mvdat<- mv_harmonise_data(dat1,dat2)
+resMV<- mv_multiple(mvdat)
+resMV
+
+dat1<- read.table("../multiviriableMR/BMIhf.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+dat2<- read.table("../multiviriableMR/BMIhf_AF.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+mvdat<- mv_harmonise_data(dat1,dat2)
+resMV<- mv_multiple(mvdat)
+resMV
+
+dat1<- read.table("../multiviriableMR/CHDhf.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+dat2<- read.table("../multiviriableMR/CHDhf_AF.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+mvdat<- mv_harmonise_data(dat1,dat2)
+resMV<- mv_multiple(mvdat)
+resMV
+
+dat1<- read.table("../multiviriableMR/Smohf.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+dat2<- read.table("../multiviriableMR/Smohf_AF.txt",header = TRUE, sep = "\t", stringsAsFactors = FALSE) 
+mvdat<- mv_harmonise_data(dat1,dat2)
+resMV<- mv_multiple(mvdat)
+resMV
